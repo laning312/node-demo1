@@ -1,0 +1,1651 @@
+[
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 503,
+            "average": "9.2",
+            "min": 0
+        },
+        "subtitle": "The Good Parts",
+        "author": [
+            "Douglas Crockford"
+        ],
+        "pubdate": "2008-5",
+        "tags": [
+            {
+                "count": 465,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 268,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 169,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 94,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 91,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 89,
+                "name": "Web开发",
+                "title": "Web开发"
+            },
+            {
+                "count": 80,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 74,
+                "name": "programming",
+                "title": "programming"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s2931482.jpg",
+        "binding": "Paperback",
+        "translator": [],
+        "catalog": "",
+        "pages": "172",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s2931482.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s2931482.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s2931482.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/2994925\/",
+        "id": "2994925",
+        "publisher": "Yahoo Press",
+        "isbn10": "0596517742",
+        "isbn13": "9780596517748",
+        "title": "JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/2994925",
+        "alt_title": "",
+        "author_intro": "Douglas Crockford is a Senior JavaScript Architect at Yahoo!. He is the maintainer of the JSON format, and a regular speaker at conferences on advanced JavaScript topic. He is also on the JavaScript 2.0 committee at ECMA.",
+        "summary": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book offers a detailed explanation of the features that make JavaScript an outstanding object-oriented programming language, and warns you about the bad parts.\nIn the process, JavaScript: The Good Parts defines a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole. Author Douglas Crockford, a member of JavaScript 2.0 committee at ECMA, is considered by many people in the development community to be the JavaScript expert.\nA beautiful, elegant, lightweight and highly expressive language lies buried under a steaming pile of good intentions and blunders, he explains. The very good ideas include functions, loose typing, dynamic objects, and an expressive object literal notation. Awful ideas include a programming model based on global variables. With JavaScript: The Good Parts, you can release this elegant programming language from its old shell, and create more maintainable, extensible, and efficient code.\nThe book's topics include:\n* Syntax\n* Objects\n* Functions\n* Inheritance\n* Arrays\n* Regular expressions\n* Methods\n* Style\n* Beautiful features\nAppendices summarize JavaScript's bad parts and awful parts. But the greatest benefit of studying the good parts is that you can avoid the need to unlearn the bad parts. If you want to learn more about the bad parts and how to use them badly, consult any other JavaScript book.\nJavaScript is the language of the Web -- the only language found in all browsers -- so avoiding it altogether is not an alternative. But, whether you're managing object libraries or just trying to get Ajax to run fast, Crockford's guidance in JavaScript: The Good Parts will help you create truly effective JavaScript code.",
+        "price": "GBP 23.99"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 1865,
+            "average": "9.3",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "[美] Nicholas C. Zakas"
+        ],
+        "pubdate": "2012-3-29",
+        "tags": [
+            {
+                "count": 2254,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 1035,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 637,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 488,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 487,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 434,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 388,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 388,
+                "name": "Web开发",
+                "title": "Web开发"
+            }
+        ],
+        "origin_title": "Professional JavaScript for Web",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s8958650.jpg",
+        "binding": "平装",
+        "translator": [
+            "李松峰",
+            "曹力"
+        ],
+        "catalog": "目　　录\n第1章　JavaScript简介　　1\n1.1　JavaScript简史　　1\n1.2　JavaScript实现　　2\n1.2.1　ECMAScript　　3\n1.2.2　文档对象模型（DOM）　　5\n1.2.3　浏览器对象模型（BOM）　　8\n1.3　JavaScript版本　　8\n1.4　小结　　9\n第2章　在HTML中使用JavaScript　　10\n2.1　<script>元素　　10\n2.1.1　标签的位置　　12\n2.1.2　延迟脚本　　13\n2.1.3　异步脚本　　13\n2.1.4　在XHTML中的用法　　14\n2.1.5　不推荐使用的语法　　16\n2.2　嵌入代码与外部文件　　16\n2.3　文档模式　　16\n2.4　<noscript>元素　　18\n2.5　小结　　18\n第3章　基本概念　　19\n3.1　语法　　19\n3.1.1　区分大小写　　19\n3.1.2　标识符　　19\n3.1.3　注释　　20\n3.1.4　严格模式　　20\n3.1.5　语句　　20\n3.2　关键字和保留字　　21\n3.3　变量　　22\n3.4　数据类型　　23\n3.4.1　typeof操作符　　23\n3.4.2　Undefined类型　　24\n3.4.3　Null类型　　25\n3.4.4　Boolean类型　　26\n3.4.5　Number类型　　27\n3.4.6　String类型　　32\n3.4.7　Object类型　　35\n3.5　操作符　　36\n3.5.1　一元操作符　　36\n3.5.2　位操作符　　39\n3.5.3　布尔操作符　　44\n3.5.4　乘性操作符　　47\n3.5.5　加性操作符　　48\n3.5.6　关系操作符　　50\n3.5.7　相等操作符　　51\n3.5.8　条件操作符　　53\n3.5.9　赋值操作符　　53\n3.5.10　逗号操作符　　54\n3.6　语句　　54\n3.6.1　if语句　　54\n3.6.2　do-while语句　　55\n3.6.3　while语句　　55\n3.6.4　for语句　　56\n3.6.5　for-in语句　　57\n3.6.6　label语句　　58\n3.6.7　break和continue语句　　58\n3.6.8　with语句　　60\n3.6.9　switch语句　　60\n3.7　函数　　62\n3.7.1　理解参数　　64\n3.7.2　没有重载　　66\n3.8　小结　　67\n第4章　变量、作用域和内存问题　　68\n4.1　基本类型和引用类型的值　　68\n4.1.1　动态的属性　　68\n4.1.2　复制变量值　　69\n4.1.3　传递参数　　70\n4.1.4　检测类型　　72\n4.2　执行环境及作用域　　73\n4.2.1　延长作用域链　　75\n4.2.2　没有块级作用域　　76\n4.3　垃圾收集　　78\n4.3.1　标记清除　　78\n4.3.2　引用计数　　79\n4.3.3　性能问题　　80\n4.3.4　管理内存　　81\n4.4　小结　　81\n第5章　引用类型　　83\n5.1　Object类型　　83\n5.2　Array类型　　86\n5.2.1　检测数组　　88\n5.2.2　转换方法　　89\n5.2.3　栈方法　　90\n5.2.4　队列方法　　91\n5.2.5　重排序方法　　92\n5.2.6　操作方法　　94\n5.2.7　位置方法　　95\n5.2.8　迭代方法　　96\n5.2.9　缩小方法　　97\n5.3　Date类型　　98\n5.3.1　继承的方法　　100\n5.3.2　日期格式化方法　　101\n5.3.3　日期\/时间组件方法　　102\n5.4　RegExp类型　　103\n5.4.1　RegExp实例属性　　105\n5.4.2　RegExp实例方法　　106\n5.4.3　RegExp构造函数属性　　107\n5.4.4　模式的局限性　　109\n5.5　Function类型　　110\n5.5.1　没有重载（深入理解）　　111\n5.5.2　函数声明与函数表达式　　111\n5.5.3　作为值的函数　　112\n5.5.4　函数内部属性　　113\n5.5.5　函数属性和方法　　116\n5.6　基本包装类型　　118\n5.6.1　Boolean类型　　120\n5.6.2　Number类型　　120\n5.6.3　String类型　　122\n5.7　单体内置对象　　130\n5.7.1　Global对象　　131\n5.7.2　Math对象　　134\n5.8　小结　　137\n第6章　面向对象的程序设计　　138\n6.1　理解对象　　138\n6.1.1　属性类型　　139\n6.1.2　定义多个属性　　142\n6.1.3　读取属性的特性　　143\n6.2　创建对象　　144\n6.2.1　工厂模式　　144\n6.2.2　构造函数模式　　144\n6.2.3　原型模式　　147\n6.2.4　组合使用构造函数模式和原型模式　　159\n6.2.5　动态原型模式　　159\n6.2.6　寄生构造函数模式　　160\n6.2.7　稳妥构造函数模式　　161\n6.3　继承　　162\n6.3.1　原型链　　162\n6.3.2　借用构造函数　　167\n6.3.3　组合继承　　168\n6.3.4　原型式继承　　169\n6.3.5　寄生式继承　　171\n6.3.6　寄生组合式继承　　172\n6.4　小结　　174\n第7章　函数表达式　　175\n7.1　递归　　177\n7.2　闭包　　178\n7.2.1　闭包与变量　　181\n7.2.2　关于this对象　　182\n7.2.3　内存泄漏　　183\n7.3　模仿块级作用域　　184\n7.4　私有变量　　186\n7.4.1　静态私有变量　　188\n7.4.2　模块模式　　189\n7.4.3　增强的模块模式　　191\n7.5　小结　　192\n第8章　BOM　　193\n8.1　window对象　　193\n8.1.1　全局作用域　　193\n8.1.2　窗口关系及框架　　194\n8.1.3　窗口位置　　197\n8.1.4　窗口大小　　198\n8.1.5　导航和打开窗口　　199\n8.1.6　间歇调用和超时调用　　203\n8.1.7　系统对话框　　205\n8.2　location对象　　207\n8.2.1　查询字符串参数　　207\n8.2.2　位置操作　　208\n8.3　navigator对象　　210\n8.3.1　检测插件　　211\n8.3.2　注册处理程序　　213\n8.4　screen对象　　214\n8.5　history对象　　215\n8.6　小结　　216\n第9章　客户端检测　　217\n9.1　能力检测　　217\n9.1.1　更可靠的能力检测　　218\n9.1.2　能力检测，不是浏览器检测　　220\n9.2　怪癖检测　　220\n9.3　用户代理检测　　221\n9.3.1　用户代理字符串的历史　　222\n9.3.2　用户代理字符串检测技术　　228\n9.3.3　完整的代码　　242\n9.3.4　使用方法　　245\n9.4　小结　　246\n第10章　DOM　　247\n10.1　节点层次　　247\n10.1.1　Node类型　　248\n10.1.2　Document类型　　253\n10.1.3　Element类型　　261\n10.1.4　Text类型　　270\n10.1.5　Comment类型　　273\n10.1.6　CDATASection类型　　274\n10.1.7　DocumentType类型　　274\n10.1.8　DocumentFragment类型　　275\n10.1.9　Attr类型　　276\n10.2　DOM操作技术　　277\n10.2.1　动态脚本　　277\n10.2.2　动态样式　　279\n10.2.3　操作表格　　281\n10.2.4　使用NodeList　　283\n10.3　小结　　284\n第11章　DOM扩展　　286\n11.1　选择符API　　286\n11.1.1　querySelector()方法　　286\n11.1.2　querySelectorAll()\n方法　　287\n11.1.3　matchesSelector()\n方法　　288\n11.2　元素遍历　　288\n11.3　HTML5　　289\n11.3.1　与类相关的扩充　　289\n11.3.2　焦点管理　　291\n11.3.3　HTMLDocument的变化　　292\n11.3.4　字符集属性　　293\n11.3.5　自定义数据属性　　293\n11.3.6　插入标记　　294\n11.3.7　scrollIntoView()方法　　298\n11.4　专有扩展　　298\n11.4.1　文档模式　　298\n11.4.2　children属性　　299\n11.4.3　contains()方法　　300\n11.4.4　插入文本　　301\n11.4.5　滚动　　303\n11.5　小结　　304\n第12章　DOM2和DOM3　　305\n12.1　DOM变化　　305\n12.1.1　针对XML命名空间的变化　　306\n12.1.2　其他方面的变化　　309\n12.2　样式　　312\n12.2.1　访问元素的样式　　313\n12.2.2　操作样式表　　317\n12.2.3　元素大小　　320\n12.3　遍历　　326\n12.3.1　NodeIterator　　328\n12.3.2　TreeWalker　　330\n12.4　范围　　332\n12.4.1　DOM中的范围　　332\n12.4.2　IE8及更早版本中的范围　　340\n12.5　小结　　343\n第13章　事件　　345\n13.1　事件流　　345\n13.1.1　事件冒泡　　346\n13.1.2　事件捕获　　346\n13.1.3　DOM事件流　　347\n13.2　事件处理程序　　348\n13.2.1　HTML事件处理程序　　348\n13.2.2　DOM0级事件处理程序　　350\n13.2.3　DOM2级事件处理程序　　351\n13.2.4　IE事件处理程序　　352\n13.2.5　跨浏览器的事件处理程序　　353\n13.3　事件对象　　355\n13.3.1　DOM中的事件对象　　355\n13.3.2　IE中的事件对象　　358\n13.3.3　跨浏览器的事件对象　　360\n13.4　事件类型　　362\n13.4.1　UI事件　　362\n13.4.2　焦点事件　　367\n13.4.3　鼠标与滚轮事件　　368\n13.4.4　键盘与文本事件　　379\n13.4.5　复合事件　　384\n13.4.6　变动事件　　385\n13.4.7　HTML5事件　　388\n13.4.8　设备事件　　395\n13.4.9　触摸与手势事件　　399\n13.5　内存和性能　　402\n13.5.1　事件委托　　402\n13.5.2　移除事件处理程序　　404\n13.6　模拟事件　　405\n13.6.1　DOM中的事件模拟　　405\n13.6.2　IE中的事件模拟　　410\n13.7　小结　　411\n第14章　表单脚本　　412\n14.1　表单的基础知识　　412\n14.1.1　提交表单　　413\n14.1.2　重置表单　　414\n14.1.3　表单字段　　414\n14.2　文本框脚本　　419\n14.2.1　选择文本　　420\n14.2.2　过滤输入　　423\n14.2.3　自动切换焦点　　426\n14.2.4　HTML5约束验证API　　427\n14.3　选择框脚本　　431\n14.3.1　选择选项　　432\n14.3.2　添加选项　　434\n14.3.3　移除选项　　435\n14.3.4　移动和重排选项　　435\n14.4　表单序列化　　436\n14.5　富文本编辑　　438\n14.5.1　使用contenteditable\n属性　　438\n14.5.2　操作富文本　　439\n14.5.3　富文本选区　　441\n14.5.4　表单与富文本　　443\n14.6　小结　　443\n第15章　使用Canvas绘图　　445\n15.1　基本用法　　445\n15.2　2D上下文　　446\n15.2.1　填充和描边　　446\n15.2.2　绘制矩形　　447\n15.2.3　绘制路径　　449\n15.2.4　绘制文本　　451\n15.2.5　变换　　453\n15.2.6　绘制图像　　456\n15.2.7　阴影　　457\n15.2.8　渐变　　458\n15.2.9　模式　　460\n15.2.10　使用图像数据　　460\n15.2.11　合成　　462\n15.3　WebGL　　463\n15.3.1　类型化数组　　463\n15.3.2　WebGL上下文　　468\n15.3.3　支持　　478\n15.4　小结　　478\n第16章　HTML5脚本编程　　480\n16.1　跨文档消息传递　　480\n16.2　原生拖放　　481\n16.2.1　拖放事件　　482\n16.2.2　自定义放置目标　　482\n16.2.3　dataTransfer对象　　483\n16.2.4　dropEffect与effectAllowed　　484\n16.2.5　可拖动　　485\n16.2.6　其他成员　　485\n16.3　媒体元素　　486\n16.3.1　属性　　487\n16.3.2　事件　　488\n16.3.3　自定义媒体播放器　　488\n16.3.4　检测编解码器的支持情况　　489\n16.3.5　Audio类型　　490\n16.4　历史状态管理　　491\n16.5　小结　　492\n第17章　错误处理与调试　　493\n17.1　浏览器报告的错误　　493\n17.1.1　IE　　493\n17.1.2　Firefox　　494\n17.1.3　Safari　　496\n17.1.4　Opera　　497\n17.1.5　Chrome　　498\n17.2　错误处理　　499\n17.2.1　try-catch语句　　500\n17.2.2　抛出错误　　503\n17.2.3　错误（error）事件　　505\n17.2.4　处理错误的策略　　506\n17.2.5　常见的错误类型　　507\n17.2.6　区分致命错误和非致命\n错误　　510\n17.2.7　把错误记录到服务器　　511\n17.3　调试技术　　512\n17.3.1　将消息记录到控制台　　512\n17.3.2　将消息记录到当前页面　　515\n17.3.3　抛出错误　　515\n17.4　常见的IE错误　　516\n17.4.1　操作终止　　516\n17.4.2　无效字符　　518\n17.4.3　未找到成员　　518\n17.4.4　未知运行时错误　　519\n17.4.5　语法错误　　519\n17.4.6　系统无法找到指定资源　　519\n17.5　小结　　520\n第18章　JavaScript与XML　　521\n18.1　浏览器对XML DOM的支持　　521\n18.1.1　DOM2级核心　　521\n18.1.2　DOMParser类型　　522\n18.1.3　XMLSerializer类型　　523\n18.1.4　IE8及之前版本中的XML　　523\n18.1.5　跨浏览器处理XML　　527\n18.2　浏览器对XPath的支持　　529\n18.2.1　DOM3级XPath　　529\n18.2.2　IE中的XPath　　534\n18.2.3　跨浏览器使用XPath　　535\n18.3　浏览器对XSLT的支持　　537\n18.3.1　IE中的XSLT　　537\n18.3.2　XSLTProcessor类型　　541\n18.3.3　跨浏览器使用XSLT　　543\n18.4　小结　　544\n第19章　E4X　　546\n19.1　E4X的类型　　546\n19.1.1　XML类型　　546\n19.1.2　XMLList类型　　547\n19.1.3　Namespace类型　　548\n19.1.4　QName类型　　549\n19.2　一般用法　　550\n19.2.1　访问特性　　551\n19.2.2　其他节点类型　　552\n19.2.3　查询　　553\n19.2.4　构建和操作XML　　555\n19.2.5　解析和序列化　　557\n19.2.6　命名空间　　558\n19.3　其他变化　　559\n19.4　全面启用E4X　　560\n19.5　小结　　561\n第20章　JSON　　562\n20.1　语法　　562\n20.1.1　简单值　　562\n20.1.2　对象　　563\n20.1.3　数组　　564\n20.2　解析与序列化　　565\n20.2.1　JSON对象　　565\n20.2.2　序列化选项　　566\n20.2.3　解析选项　　569\n20.3　小结　　570\n第21章　Ajax与Comet　　571\n21.1　XMLHttpRequest对象　　571\n21.1.1　XHR的用法　　573\n21.1.2　HTTP头部信息　　575\n21.1.3　GET请求　　576\n21.1.4　POST请求　　577\n21.2　XMLHttpRequest 2级　　578\n21.2.1　FormData　　578\n21.2.2　超时设定　　579\n21.2.3　overrideMimeType()\n方法　　580\n21.3　进度事件　　580\n21.3.1　load事件　　580\n21.3.2　progress事件　　581\n21.4　跨源资源共享　　582\n21.4.1　IE对CORS的实现　　582\n21.4.2　其他浏览器对CORS的\n实现　　584\n21.4.3　Preflighted Reqeusts　　584\n21.4.4　带凭据的请求　　585\n21.4.5　跨浏览器的CORS　　585\n21.5　其他跨域技术　　586\n21.5.1　图像Ping　　586\n21.5.2　JSONP　　587\n21.5.3　Comet　　588\n21.5.4　服务器发送事件　　590\n21.5.5　Web Sockets　　591\n21.5.6　SSE与Web Sockets　　593\n21.6　安全　　593\n21.7　小结　　594\n第22章　高级技巧　　596\n22.1　高级函数　　596\n22.1.1　安全的类型检测　　596\n22.1.2　作用域安全的构造函数　　597\n22.1.3　惰性载入函数　　600\n22.1.4　函数绑定　　602\n22.1.5　函数柯里化　　604\n22.2　防篡改对象　　606\n22.2.1　不可扩展对象　　606\n22.2.2　密封的对象　　607\n22.2.3　冻结的对象　　608\n22.3　高级定时器　　609\n22.3.1　重复的定时器　　610\n22.3.2　Yielding Processes　　612\n22.3.3　函数节流　　614\n22.4　自定义事件　　616\n22.5　拖放　　618\n22.5.1　修缮拖动功能　　620\n22.5.2　添加自定义事件　　622\n22.6　小结　　624\n第23章　离线应用与客户端存储　　626\n23.1　离线检测　　626\n23.2　应用缓存　　627\n23.3　数据存储　　628\n23.3.1　Cookie　　629\n23.3.2　IE用户数据　　637\n23.3.3　Web存储机制　　638\n23.3.4　IndexedDB　　643\n23.4　小结　　654\n第24章　最佳实践　　656\n24.1　可维护性　　656\n24.1.1　什么是可维护的代码　　656\n24.1.2　代码约定　　657\n24.1.3　松散耦合　　659\n24.1.4　编程实践　　662\n24.2　性能　　666\n24.2.1　注意作用域　　666\n24.2.2　选择正确方法　　667\n24.2.3　最小化语句数　　672\n24.2.4　优化DOM交互　　673\n24.3　部署　　676\n24.3.1　构建过程　　676\n24.3.2　验证　　677\n24.3.3　压缩　　679\n24.4　小结　　681\n第25章　新兴的API　　682\n25.1　requestAnimationFrame()　　682\n25.1.1　早期动画循环　　682\n25.1.2　循环间隔的问题　　683\n25.1.3　mozRequestAnimation-Frame　　683\n25.1.4　webkitRequestAnima-tionFrame与msRequest-AnimationFrame　　685\n25.2　Page Visibility API　　686\n25.3　Geolocation API　　687\n25.4　File API　　689\n25.4.1　FileReader类型　　690\n25.4.2　读取部分内容　　692\n25.4.3　对象URL　　693\n25.4.4　读取拖放的文件　　694\n25.4.5　使用XHR上传文件　　695\n25.5　Web计时　　696\n25.6　Web Workers　　697\n25.6.1　使用Worker　　697\n25.6.2　Worker全局作用域　　698\n25.6.3　包含其他脚本　　699\n25.6.4　Web Workers的未来　　700\n25.7　小结　　700\n附录A　ECMAScript Harmony　　701\n附录B　严格模式　　717\n附录C　JavaScript库　　723\n附录D　JavaScript工具　　727\n",
+        "pages": "748",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s8958650.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s8958650.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s8958650.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/10546125\/",
+        "id": "10546125",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115275793",
+        "isbn13": "9787115275790",
+        "title": "JavaScript高级程序设计（第3版）",
+        "url": "https:\/\/api.douban.com\/v2\/book\/10546125",
+        "alt_title": "Professional JavaScript for Web",
+        "author_intro": "作者简介：\nNicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。",
+        "summary": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。\n本书适合有一定编程经验的Web 应用开发人员阅读，也可作为高校及社会实用技术培训相关专业课程的教材。",
+        "series": {
+            "id": "660",
+            "title": "图灵程序设计丛书"
+        },
+        "price": "99.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 1698,
+            "average": "9.1",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "Douglas Crockford"
+        ],
+        "pubdate": "2009-4",
+        "tags": [
+            {
+                "count": 2131,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 828,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 351,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 315,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 297,
+                "name": "javacript",
+                "title": "javacript"
+            },
+            {
+                "count": 275,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 242,
+                "name": "O'Reilly",
+                "title": "O'Reilly"
+            },
+            {
+                "count": 215,
+                "name": "web",
+                "title": "web"
+            }
+        ],
+        "origin_title": "JavaScript:The Good Parts",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s3651235.jpg",
+        "binding": "平装",
+        "translator": [
+            "赵泽欣",
+            "鄢学鹍"
+        ],
+        "catalog": "前言\tI\n第1章 精华\t1\n为什么是JAVASCRIPT?\t2\n分析JAVASCRIPT\t3\n一个简单的试验场\t4\n第2章 语法\t5\n空白\t5\n标识符\t6\n数字\t7\n字符串\t8\n语句\t10\n表达式\t15\n字面量\t17\n函数\t19\n第3章 对象\t20\n对象字面量\t20\n检索\t21\n更新\t22\n引用\t22\n原型\t22\n反射\t23\n枚举\t24\n删除\t24\n减少全局变量污染\t25\n第4章 函数\t26\n函数对象\t26\n函数字面量\t27\n调用\t27\n参数\t31\n返回\t31\n异常\t32\n给类型增加方法\t32\n递归\t34\n作用域\t36\n闭包\t37\n回调\t40\n模块\t40\n级联\t42\n套用\t43\n记忆\t44\n第5章 继承..\t46\n伪类\t47\n对象说明符\t50\n原型\t50\n函数化\t52\n部件\t55\n第6章 数组\t58\n数组字面量\t58\n长度\t59\n删除\t60\n枚举\t60\n混淆的地方\t61\n方法\t62\n维度\t63\n第7章 正则表达式\t65\n一个例子\t66\n结构\t70\n元素\t72\n第8章 方法\t78\n第9章 代码风格\t94\n第10章 优美的特性\t98\n附录A：糟粕\t101\n附录B：鸡肋\t109\n附录C：JSLINT\t115\n附录D：语法图\t125\n附录E：JSON\t136\n索引\t147",
+        "pages": "155",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s3651235.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s3651235.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s3651235.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/3590768\/",
+        "id": "3590768",
+        "publisher": "电子工业出版社",
+        "isbn10": "7121084376",
+        "isbn13": "9787121084379",
+        "title": "JavaScript语言精粹",
+        "url": "https:\/\/api.douban.com\/v2\/book\/3590768",
+        "alt_title": "JavaScript:The Good Parts",
+        "author_intro": "Douglas Crockford是一名来自Yahoo!的资深JavaScript架构师，以创造和维护JSON (JavaScriptObject Notation) 格式而为大家所熟知。他定期在各类会议上发表有关高级JavaScript的主题演讲。",
+        "summary": "本书通过对JavaScript语言的分析，甄别出好的和坏的特性，从而提取出相对这门语言的整体而言具有更好的可靠性、可读性和可维护性的JavaScript的子集，以便你能用它创建真正可扩展的和高效的代码。\n雅虎资深JavaScript架构师Douglas Crockford倾力之作。\n向读者介绍如何运用JavaScript创建真正可扩展的和高效的代码。",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "35.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 1327,
+            "average": "8.7",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "[英] Jeremy Keith",
+            "[加] Jeffrey Sambells"
+        ],
+        "pubdate": "2011-4",
+        "tags": [
+            {
+                "count": 898,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 627,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 543,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 337,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 309,
+                "name": "dom",
+                "title": "dom"
+            },
+            {
+                "count": 248,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 180,
+                "name": "Web",
+                "title": "Web"
+            },
+            {
+                "count": 174,
+                "name": "web开发",
+                "title": "web开发"
+            }
+        ],
+        "origin_title": "DOM Scripting: Web Design with JavaScript and the Document Object Model",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s4677623.jpg",
+        "binding": "平装",
+        "translator": [
+            "杨涛",
+            "王建桥",
+            "杨晓云 等"
+        ],
+        "catalog": "第1章 JavaScript简史\t1\n1.1 JavaScript的起源\t1\n1.2 DOM\t2\n1.3 浏览器战争\t3\n1.3.1 DHTML\t3\n1.3.2 浏览器之间的冲突\t3\n1.4 制定标准\t4\n1.4.1 浏览器以外的考虑\t4\n1.4.2 浏览器战争的结局\t5\n1.4.3 崭新的起点\t5\n1.5 小结\t6\n第2章 JavaScript语法\t8\n2.1 准备工作\t8\n2.2 语法\t10\n2.2.1 语句\t10\n2.2.2 注释\t10\n2.2.3 变量\t11\n2.2.4 数据类型\t14\n2.2.5 数组\t16\n2.2.6 对象\t18\n2.3 操作\t19\n2.4 条件语句\t21\n2.4.1 比较操作符\t22\n2.4.2 逻辑操作符\t23\n2.5 循环语句\t24\n2.5.1 while循环\t24\n2.5.2 for循环\t25\n2.6 函数\t26\n2.7 对象\t29\n2.7.1 内建对象\t30\n2.7.2 宿主对象\t31\n2.8 小结\t31\n第3章 DOM\t32\n3.1 文档：DOM中的“D”\t32\n3.2 对象：DOM中的“O”\t32\n3.3 模型：DOM中的“M”\t33\n3.4 节点\t35\n3.4.1 元素节点\t35\n3.4.2 文本节点\t35\n3.4.3 属性节点\t36\n3.4.4 CSS\t36\n3.4.5 获取元素\t38\n3.4.6 盘点知识点\t42\n3.5 获取和设置属性\t43\n3.5.1 getAttribute\t43\n3.5.2 setAttribute\t44\n3.6 小结\t45\n第4章 案例研究：JavaScript图片库\t46\n4.1 标记\t46\n4.2 JavaScript\t48\n4.2.1 非DOM解决方案\t49\n4.2.2 最终的函数代码清单\t50\n4.3 应用这个JavaScript函数\t50\n4.4 对这个函数进行扩展\t52\n4.4.1 childNodes属性\t53\n4.4.2 nodeType属性\t54\n4.4.3 在标记里增加一段描述\t54\n4.4.4 用JavaScript改变这段描述\t55\n4.4.5 nodeValue属性\t56\n4.4.6 firstChild和lastChild属性\t56\n4.4.7 利用nodeValue属性刷新这段描述\t57\n4.5 小结\t60\n第5章 最佳实践\t61\n5.1 过去的错误\t61\n5.1.1 不要怪罪JavaScript\t61\n5.1.2 Flash的遭遇\t62\n5.1.3 质疑一切\t63\n5.2 平稳退化\t63\n5.2.1 “javascript:”伪协议\t64\n5.2.2 内嵌的事件处理函数\t65\n5.2.3 谁关心这个\t65\n5.3 向CSS学习\t66\n5.3.1 结构与样式的分离\t66\n5.3.2 渐进增强\t67\n5.4 分离JavaScript\t68\n5.5 向后兼容\t70\n5.5.1 对象检测\t70\n5.5.2 浏览器嗅探技术\t71\n5.6 性能考虑\t72\n5.6.1 尽量少访问DOM和尽量减少标记\t72\n5.6.2 合并和放置脚本\t73\n5.6.3 压缩脚本\t73\n5.7 小结\t74\n第6章 案例研究：图片库改进版\t75\n6.1 快速回顾\t75\n6.2 它支持平稳退化吗\t76\n6.3 它的JavaScript与HTML标记是分离的吗\t77\n6.3.1 添加事件处理函数\t77\n6.3.2 共享onload事件\t82\n6.4 不要做太多的假设\t84\n6.5 优化\t86\n6.6 键盘访问\t88\n6.7 把JavaScript与CSS结合起来\t90\n6.8 DOM Core和HTML-DOM\t93\n6.9 小结\t94\n第7章 动态创建标记\t96\n7.1 一些传统方法\t96\n7.1.1 document.write\t96\n7.1.2 innerHTML属性\t98\n7.2 DOM方法\t101\n7.2.1 createElement方法\t101\n7.2.2 appendChild方法\t102\n7.2.3 createTextNode方法\t103\n7.2.4 一个更复杂的组合\t105\n7.3 重回图片库\t107\n7.3.1 在已有元素前插入一个新元素\t108\n7.3.2 在现有方法后插入一个新元素\t109\n7.3.3 图片库二次改进版\t111\n7.4 Ajax\t114\n7.4.1 XMLHttpRequest对象\t115\n7.4.2 渐进增强与Ajax\t119\n7.4.3 Hijax\t120\n7.5 小结\t121\n第8章 充实文档的内容\t122\n8.1 不应该做什么\t122\n8.2 把“不可见”变成“可见”\t123\n8.3 内容\t123\n8.3.1 选用HTML、XHTML还是HTML5\t124\n8.3.2 CSS\t126\n8.3.3 JavaScript\t127\n8.4 显示“缩略语列表”\t127\n8.4.1 编写displayAbbreviations函数\t128\n8.4.2 创建标记\t130\n8.4.3 一个浏览器“地雷”\t135\n8.5 显示“文献来源链接表”\t138\n8.6 显示“快捷键清单”\t143\n8.7 检索和添加信息\t146\n8.8 小结\t147\n第9章 CSS-DOM\t148\n9.1 三位一体的网页\t148\n9.1.1 结构层\t148\n9.1.2 表示层\t148\n9.1.3 行为层\t149\n9.1.4 分离\t150\n9.2 style属性\t150\n9.2.1 获取样式\t151\n9.2.2 设置样式\t156\n9.3 何时该用DOM脚本设置样式\t158\n9.3.1 根据元素在节点树里的位置来设置样式\t158\n9.3.2 根据某种条件反复设置某种样式\t161\n9.3.3 响应事件\t165\n9.4 className属性\t167\n9.5 小结\t171\n第10章 用JavaScript实现动画效果\t172\n10.1 动画基础知识\t172\n10.1.1 位置\t172\n10.1.2 时间\t175\n10.1.3 时间递增量\t175\n10.1.4 抽象\t178\n10.2 实用的动画\t184\n10.2.1 提出问题\t184\n10.2.2 解决问题\t186\n10.2.3 CSS\t187\n10.2.4 JavaScript\t189\n10.2.5 变量作用域问题\t192\n10.2.6 改进动画效果\t193\n10.2.7 添加安全检查\t196\n10.2.8 生成HTML标记\t198\n10.3 小结\t200\n第11章 HTML5\t201\n11.1 HTML5简介\t201\n11.2 来自朋友的忠告\t203\n11.3 几个示例\t204\n11.3.1 Canvas\t205\n11.3.2 音频和视频\t209\n11.3.3 表单\t215\n11.4 HTML5还有其他特性吗\t219\n11.5 小结\t219\n第12章 综合示例\t220\n12.1 项目简介\t220\n12.1.1 原始资料\t220\n12.1.2 站点结构\t220\n12.1.3 页面结构\t221\n12.2 设计\t222\n12.3 CSS\t223\n12.3.1 颜色\t225\n12.3.2 布局\t226\n12.3.3 版式\t228\n12.4 标记\t229\n12.5 JavaScript\t230\n12.5.1 页面突出显示\t231\n12.5.2 JavaScript幻灯片\t235\n12.5.3 内部导航\t239\n12.5.4 JavaScript图片库\t242\n12.5.5 增强表格\t245\n12.5.6 增强表单\t249\n12.5.7 压缩代码\t263\n12.6 小结\t264\n附录 JavaScript库\t265",
+        "pages": "300",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s4677623.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s4677623.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s4677623.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/6038371\/",
+        "id": "6038371",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115249997",
+        "isbn13": "9787115249999",
+        "title": "JavaScript DOM编程艺术 （第2版）",
+        "url": "https:\/\/api.douban.com\/v2\/book\/6038371",
+        "alt_title": "DOM Scripting: Web Design with JavaScript and the Document Object Model",
+        "author_intro": "Jeremy Keith  国际知名的Web设计师，Web标准项目组成员，DOM Scripting任务组负责人之一，任职于Web咨询公司Clearleft。除本书外，还著有HTML5 for Web Designers、Bulletproof Ajax。可通过其个人网站adactio.com与他联系。\nJeffrey Sambells 资深平面设计师，Web开发人员，创办了软件公司We-Create并担任研发总监。除本书外，还著有《JavaScript高级程序设计》和 Beginning Google Maps Applications with PHP and Ajax等多部畅销书。",
+        "summary": "JavaScript是Web开发中最重要的一门语言，它强大而优美。无论是桌面开发，还是移动应用。JavaScript都是必须掌握的技术。W3C的DOM标准是开发Web应用的基石。已经得到所有现代浏览器的支持，这使得跨平台Web开发成了一件轻松惬意的事。\n本书是超级畅销书的升级版，由倡导Web标准的领军人物执笔，揭示了前端开发的真谛，是学习JavaScript和DOM开发的必读之作。\n本 书在简洁明快地讲述JavaScript和DOM的基本知识之后，通过几个实例演示了专业水准的网页开发技术，透彻阐述了平稳退化等一批至关重要的 JavaScript编程原则和最佳实践，并全面探讨了HTML5以及jQuery等JavaScript库。读者将看到JavaScript、 HTML5和CSS如何协作来创建易用的、与标准兼容的Web设计，掌握使用JavaScript和DOM通过客户端动态效果和用户控制的动画来加强 Web页面的必备技术；同时，还将对如何利用库提高开发效率有全面深入的理解。",
+        "series": {
+            "id": "660",
+            "title": "图灵程序设计丛书"
+        },
+        "price": "49.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 516,
+            "average": "9.0",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "Nicholas C.Zakas"
+        ],
+        "pubdate": "2010-11",
+        "tags": [
+            {
+                "count": 906,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 317,
+                "name": "Web前端",
+                "title": "Web前端"
+            },
+            {
+                "count": 236,
+                "name": "性能",
+                "title": "性能"
+            },
+            {
+                "count": 223,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 146,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 136,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 106,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 94,
+                "name": "编程",
+                "title": "编程"
+            }
+        ],
+        "origin_title": "High Performance JavaScript",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s4538004.jpg",
+        "binding": "16",
+        "translator": [
+            "丁琛",
+            "赵泽欣"
+        ],
+        "catalog": "前言 1\n第1章：加载和执行 1\n1.1 脚本位置 2\n1.2 组织脚本 4\n1.3 无阻塞的脚本 5\n1.3.1 延迟的脚本 5\n1.3.2 动态脚本元素 6\n1.3.3 XMLHttpRequest脚本注入 9\n1.3.4 推荐的无阻塞模式 10\n1.4 小结 14\n第2章：数据访问 15\n2.1 管理作用域 16\n2.1.1 作用域链和标识符解析 16\n2.1.2 标识符解析的性能 19\n2.1.3 改变作用域链 21\n2.1.4 动态作用域 24\n2.1.5 闭包，作用域和内存 24\n2.2 对象成员 27\n2.2.1 原型 27\n2.2.2 原型链 29\n2.2.3 嵌套成员 30\n2.2.4 缓存对象成员值 31\n2.3 小结 33\n第3章：DOM编程 35\n3.1 浏览器中的DOM 35\n3.1.1 天生就慢 36\n3.2 DOM访问与修改 36\n3.2.1 innerHTML对比DOM方法 37\n3.2.2 节点克隆 41\n3.2.3 HTML集合 42\n3.2.4 遍历DOM 46\n3.3 重绘与重排 50\n3.3.1 重排何时发生？ 51\n3.3.2 渲染树变化的排队与刷新 51\n3.3.3 最小化重绘和重排 52\n3.3.4 缓存布局信息 56\n3.3.5 让元素脱离动画流 56\n3.3.6 IE和:hover 57\n3.4 事件委托 57\n3.5 小结 59\n第4章：算法和流程控制 61\n4.1 循环 61\n4.1.1 循环的类型 61\n4.1.2 循环性能 63\n4.1.3 基于函数的迭代 67\n4.2 条件语句 68\n4.2.1 if-else对比switch 68\n4.2.2 优化if-else 70\n4.2.3 查找表 72\n4.3 递归 73\n4.3.1 调用栈限制 74\n4.3.2 递归模式 75\n4.3.3 迭代 76\n4.3.4 Memoization 77\n4.4 小结 79\n第5章：字符串和正则表达式 81\n5.1 字符串连接 81\n5.1.1 加（+）和加等于（+=）操作符 82\n5.1.2 数组项连接 84\n5.1.3 String.prototype.concat 86\n5.2 正则表达式优化 87\n5.2.1 正则表达式工作原理 88\n5.2.2 理解回溯 89\n5.2.3 回溯失控 91\n5.2.4 基准测试的说明 96\n5.2.5 更多提高正则表达式效率的方法 96\n5.2.6 何时不使用正则表达式 99\n5.3 去除字符串首尾空白 99\n5.3.1 使用正则表达式去首尾空白 99\n5.3.2 不使用正则表达式去除字符串首尾空白 102\n5.3.3 混合解决方案 103\n5.4 小结 104\n第6章：快速响应的用户界面 107\n6.1 浏览器UI线程 107\n6.1.1 浏览器限制 109\n6.1.2 多久才算“太久”？ 110\n6.2 使用定时器让出时间片段 111\n6.2.1 定时器基础 112\n6.2.2 定时器的精度 114\n6.2.3 使用定时器处理数组 114\n6.2.4 分割任务 116\n6.2.5 记录代码运行时间 118\n6.2.6 定时器与性能 119\n6.3 Web Workers 120\n6.3.1 Worker运行环境 120\n6.3.2 与Worker通信 121\n6.3.3 加载外部文件 122\n6.3.4 实际应用 122\n6.4 小结 124\n第7章：Ajax 125\n7.1 数据传输 125\n7.1.1 请求数据 125\n7.1.2 发送数据 131\n7.2 数据格式 134\n7.2.1 XML 134\n7.2.2 JSON 137\n7.2.3 HTML 141\n7.2.4 自定义格式 142\n7.2.5 数据格式总结 144\n7.3 Ajax性能指南 145\n7.3.1 缓存数据 145\n7.3.2 了解Ajax类库的限制 148\n7.4 总结 149\n第8章：编程实践 151\n8.1 避免双重求值（Double Evaluation） 151\n8.2 使用Object\/Array直接量 153\n8.3 不要重复工作 154\n8.3.1 延迟加载 154\n8.3.2 条件预加载 156\n8.4 使用速度快的部分 156\n8.4.1 位操作 156\n8.4.2 原生方法 159\n8.5 小结 161\n第9章：构建并部署高性能JavaScript应用 163\n9.1 Apache Ant 163\n9.2 合并多个JavaScript文件 165\n9.3 预处理JavaScript文件 166\n9.4 JavaScript压缩 168\n9.5 构建时处理对比运行时处理 170\n9.6 JavaScript的HTTP压缩 170\n9.7 缓存JavaScript文件 171\n9.8 处理缓存问题 172\n9.9 使用内容分发网络（CDN） 173\n9.10 部署JavaScript资源 173\n9.11 敏捷JavaScript构建过程 174\n9.12 小结 175\n第10章：工具 177\n10.1 JavaScript性能分析 178\n10.2 YUI Profiler 179\n10.3 匿名函数 182\n10.4 Firebug 183\n10.41 控制台面板分析工具 183\n10.4.2 Console API 184\n10.4.3 网络面板 185\n10.5 IE开发人员工具 186\n10.6 Safari Web查看器 188\n10.6.1 描述文件面板 189\n10.6.2 资源面板 191\n10.7 Chrome开发人员工具 192\n10.8 脚本阻塞 193\n10.9 Page Speed 194\n10.10 Fiddler 196\n10.11 YSlow 198\n10.12 dyna Trace Ajax Edition 199\n10.13 总结 202\n索引 203",
+        "pages": "210",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s4538004.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s4538004.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s4538004.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/5362856\/",
+        "id": "5362856",
+        "publisher": "电子工业出版社",
+        "isbn10": "7121119323",
+        "isbn13": "9787121119323",
+        "title": "高性能JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/5362856",
+        "alt_title": "High Performance JavaScript",
+        "author_intro": "Nicholas C.Zakas，雅虎首页的主要开发者，雅虎用户界面库（YUI）代码贡献者，擅长利用JavaScript、HTML、CSS、XML、XSLT设计和实现WEB界面的软件工程师。",
+        "summary": "如果你使用JavaScript构建交互丰富的Web应用，那么JavaScript代码可能是造成你的Web应用速度变慢的主要原因。《高性能JavaScript》揭示的技术和策略能帮助你在开发过程中消除性能瓶颈。你将会了解如何提升各方面的性能，包括代码的加载、运行、DOM交互、页面生存周期等。雅虎的前端工程师Nicholas C. Zakas和其他五位JavaScript专家介绍了页面代码加载的最佳方法和编程技巧，来帮助你编写更为高效和快速的代码。你还会了解到构建和部署文件到生产环境的最佳实践，以及有助于定位线上问题的工具。",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "49.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 578,
+            "average": "8.8",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "David Flanagan"
+        ],
+        "pubdate": "2012-4-1",
+        "tags": [
+            {
+                "count": 869,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 298,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 268,
+                "name": "犀牛书",
+                "title": "犀牛书"
+            },
+            {
+                "count": 207,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 143,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 139,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 128,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 127,
+                "name": "Web开发",
+                "title": "Web开发"
+            }
+        ],
+        "origin_title": "JavaScript: The Definitive Guide, Sixth Edition",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s9056065.jpg",
+        "binding": "平装",
+        "translator": [
+            "淘宝前端团队"
+        ],
+        "catalog": "前言  1\n第1章 JavaScript概述  5\n1.1 JavaScript语言核心  8\n1.2 客户端JavaScript  12\n第一部分 JavaScript 语言核心\n第2章 词法结构  25\n2.1 字符集  25\n2.2 注释  27\n2.3 直接量  27\n2.4 标识符和保留字  28\n2.5 可选的分号  30\n第3章 类型、值和变量  32\n3.1 数字  34\n3.2 文本  38\n3.3 布尔值  43\n3.4 null和undefined  44\n3.5 全局对象  45\n3.6 包装对象  46\n3.7 不可变的原始值和可变的对象引用  47\n3.8 类型转换  48\n3.9 变量声明  55\n3.10 变量作用域  56\n第4章 表达式和运算符  60\n4.1 原始表达式  60\n4.2 对象和数组的初始化表达式  61\n4.3 函数定义表达式  62\n4.4 属性访问表达式  63\n4.5 调用表达式  64\n4.6 对象创建表达式  64\n4.7 运算符概述  65\n4.8 算术表达式  69\n4.9 关系表达式  74\n4.10 逻辑表达式  79\n4.11 赋值表达式  81\n4.12 表达式计算  83\n4.13 其他运算符  86\n第5章 语句  91\n5.1 表达式语句  92\n5.2 复合语句和空语句  92\n5.3 声明语句  94\n5.4 条件语句  96\n5.5 循环  101\n5.6 跳转  106\n5.7 其他语句类型  113\n5.8 JavaScript语句小结  116\n第6章 对象  118\n6.1 创建对象  120\n6.2 属性的查询和设置  123\n6.3 删除属性  127\n6.4 检测属性  128\n6.5 枚举属性  130\n6.6 属性getter和setter  132\n6.7 属性的特性  134\n6.8 对象的三个属性  138\n6.9 序列化对象  141\n6.10 对象方法  142\n第7章 数组  144\n7.1 创建数组  144\n7.2 数组元素的读和写  145\n7.3 稀疏数组  147\n7.4 数组长度  148\n7.5 数组元素的添加和删除  149\n7.6 数组遍历  149\n7.7 多维数组  151\n7.8 数组方法  152\n7.9 ECMAScript 5中的数组方法  156\n7.10 数组类型  160\n7.11 类数组对象  161\n7.12 作为数组的字符串  163\n第8章 函数  165\n8.1 函数定义  166\n8.2 函数调用  168\n8.3 函数的实参和形参  173\n8.4 作为值的函数  178\n8.5 作为命名空间的函数  181\n8.6 闭包  182\n8.7 函数属性、方法和构造函数  188\n8.8 函数式编程  194\n第9章 类和模块  201\n9.1 类和原型  202\n9.2 类和构造函数  203\n9.3 JavaScript中Java式的类继承  207\n9.4 类的扩充  210\n9.5 类和类型  212\n9.6 JavaScript中的面向对象技术  217\n9.7 子类  230\n9.8 ECMAScript 5 中的类  239\n9.9 模块  248\n第10章 正则表达式的模式匹配  253\n10.1 正则表达式的定义  253\n10.2 用于模式匹配的String方法  261\n10.3 RegExp对象  263\n第11章 JavaScript的子集和扩展  267\n11.1 JavaScript的子集  268\n11.2 常量和局部变量  271\n11.3 解构赋值  274\n11.4 迭代  276\n11.5 函数简写  285\n11.6 多Catch 从句  285\n11.7 E4X: ECMAScript for XML  286\n第12章 服务器端JavaScript  290\n12.1 用Rhino脚本化Java  291\n12.2 用Node实现异步I\/O  297\n第二部分 客户端JavaScript\n第13章 Web浏览器中的JavaScript  309\n13.1 客户端JavaScript  309\n13.2 在HTML里嵌入JavaScript  313\n13.3 JavaScript程序的执行  319\n13.4 兼容性和互用性  326\n13.5 可访问性  333\n13.6 安全性  334\n13.7 客户端框架  339\n第14章 Window对象  341\n14.1 计时器  342\n14.2 浏览器定位和导航  343\n14.3 浏览历史  345\n14.4 浏览器和屏幕信息  346\n14.5 对话框  348\n14.6 错误处理  351\n14.7 作为Window对象属性的文档元素  351\n14.8 多窗口和窗体  353\n第15章 脚本化文档  361\n15.1 DOM概览  362\n15.2 选取文档元素  364\n15.3 文档结构和遍历  371\n15.4 属性  375\n15.5 元素的内容  378\n15.6 创建、插入和删除节点  382\n15.7 例子：生成目录表  387\n15.8 文档和元素的几何形状和滚动  389\n15.9 HTML表单  396\n15.10 其他文档特性  404\n第16章 脚本化CSS  410\n16.1 CSS概览  411\n16.2 重要的CSS属性  416\n16.3 脚本化内联样式  427\n16.4 查询计算出的样式  431\n16.5 脚本化CSS类  433\n16.6 脚本化样式表  435\n第17章 事件处理  440\n17.1 事件类型  442\n17.2 注册事件处理程序  451\n17.3 事件处理程序的调用  454\n17.4 文档加载事件  459\n17.5 鼠标事件  461\n17.6 鼠标滚轮事件  465\n17.7 拖放事件  468\n17.8 文本事件  475\n17.9 键盘事件  478\n第18章 脚本化HTTP  484\n18.1 使用XMLHttpRequest  487\n18.2 借助<script>发送HTTP请求：JSONP  505\n18.3 基于服务器端推送事件的Comet技术  508\n第19章 jQuery类库  514\n19.1 jQuery基础  515\n19.2 jQuery的getter和setter  522\n19.3 修改文档结构  528\n19.4 用jQuery处理事件  531\n19.5 动画效果  542\n19.6 jQuery中的Ajax  550\n19.7 工具函数  563\n19.8 jQuery选择器和选取方法  566\n19.9 jQuery的插件扩展  574\n19.10 jQuery UI类库  577\n第20章 客户端存储  579\n20.1 localStorage和sessionStorage  581\n20.2 cookie  586\n20.3 利用IE userData来持久化数据  592\n20.4 应用程序存储和离线Web应用  594\n第21章 多媒体和图形编程  606\n21.1 脚本化图片  606\n21.2 脚本化音频和视频  608\n21.3 SVG：可伸缩的矢量图形  615\n21.4 <canvas>中的图形  623\n第22章 HTML5 API  658\n22.1 地理位置  659\n22.2 历史记录管理  662\n22.3 跨域消息传递  668\n22.4 Web Workers  671\n22.5 类型化数组和ArrayBuffer  678\n22.6 Blob  682\n22.7 文件系统API  691\n22.8 客户端数据库  696\n22.9 Web套接字  704\n第三部分 JavaScript核心参考\nJavaScript核心参考  711\n第四部分 客户端JavaScript参考\n客户端JavaScript参考  847",
+        "pages": "1004",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s9056065.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s9056065.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s9056065.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/10549733\/",
+        "id": "10549733",
+        "publisher": "机械工业出版社",
+        "isbn10": "7111376617",
+        "isbn13": "9787111376613",
+        "title": "JavaScript权威指南(第6版)",
+        "url": "https:\/\/api.douban.com\/v2\/book\/10549733",
+        "alt_title": "JavaScript: The Definitive Guide, Sixth Edition",
+        "author_intro": "David Flanagan是一名程序员，也是一名作家，它的个人网站是http:\/\/davidflanagan.com。他在O'Reilly出版的其他畅销书还包括《JavaScript Pocket Reference》、《The Ruby Programming Language》，以及《Java in a Nutshell》。David毕业于麻生理工学院，获得计算机科学与工程学位。他和妻子和孩子一起生活在西雅图和温哥华之间的美国太平洋西北海岸。",
+        "summary": "本书是程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册。\n第6版涵盖HTML 5和ECMAScript 5。很多章节完全重写，以便与时俱进，紧跟当今的最佳Web开发实践。本书新增章节描述了jQuery和服务器端JavaScript。\n本书适合那些希望学习Web编程语言的初、中级程序员和希望精通JavaScript的JavaScript程序员阅读。",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "139.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 127,
+            "average": "9.4",
+            "min": 0
+        },
+        "subtitle": "The Definitive Guide",
+        "author": [
+            "David Flanagan"
+        ],
+        "pubdate": "2011-5-13",
+        "tags": [
+            {
+                "count": 145,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 42,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 34,
+                "name": "Web开发",
+                "title": "Web开发"
+            },
+            {
+                "count": 34,
+                "name": "Programming",
+                "title": "Programming"
+            },
+            {
+                "count": 24,
+                "name": "Web",
+                "title": "Web"
+            },
+            {
+                "count": 24,
+                "name": "O'Reilly",
+                "title": "O'Reilly"
+            },
+            {
+                "count": 21,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 21,
+                "name": "编程",
+                "title": "编程"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27466408.jpg",
+        "binding": "Paperback",
+        "translator": [],
+        "catalog": "",
+        "pages": "1096",
+        "images": {
+            "small": "https://img1.doubanio.com\/view\/subject\/s\/public\/s27466408.jpg",
+            "large": "https://img1.doubanio.com\/view\/subject\/l\/public\/s27466408.jpg",
+            "medium": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27466408.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/5303032\/",
+        "id": "5303032",
+        "publisher": "O'Reilly Media",
+        "isbn10": "0596805527",
+        "isbn13": "9780596805524",
+        "title": "JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/5303032",
+        "alt_title": "",
+        "author_intro": "David Flanagan is also the author of The Ruby Programming Language, Java in a Nutshell, and JavaScript Pocket Reference.",
+        "summary": "The book is a programmer's guide and comprehensive reference to the core JavaScript language and to the client-side JavaScript APIs defined by web browsers.\nThe sixth edition covers HTML 5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server-side JavaScript.\nRecommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it.",
+        "price": "GBP 39.99"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 526,
+            "average": "9.4",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "[美] Kyle Simpson"
+        ],
+        "pubdate": "2015-4",
+        "tags": [
+            {
+                "count": 622,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 281,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 166,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 141,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 141,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 114,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 114,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 75,
+                "name": "Web",
+                "title": "Web"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28033372.jpg",
+        "binding": "平装",
+        "translator": [
+            "赵望野",
+            "梁杰"
+        ],
+        "catalog": "前言　　VIII\n第一部分　作用域和闭包\n序　　2\n第1章　作用域是什么　　4\n1.1　编译原理　　4\n1.2　理解作用域　　6\n1.2.1　演员表　　6\n1.2.2　对话　　6\n1.2.3　编译器有话说　　7\n1.2.4　引擎和作用域的对话　　9\n1.2.5　小测验　　10\n1.3　作用域嵌套　　10\n1.4　异常　　12\n1.5　小结　　12\n第2章　词法作用域　　14\n2.1　词法阶段　　14\n2.2　欺骗词法　　17\n2.2.1　eval　　17\n2.2.2　with　　18\n2.2.3　性能　　20\n2.3　小结　　21\n第3章　函数作用域和块作用域　　22\n3.1　函数中的作用域　　22\n3.2　隐藏内部实现　　23\n3.3　函数作用域　　26\n3.3.1　匿名和具名　　27\n3.3.2　立即执行函数表达式　　28\n3.4　块作用域　　30\n3.4.1　with　　31\n3.4.2　try\/catch　　31\n3.4.3　let　　32\n3.4.4　const　　35\n3.5　小结　　36\n第4章　提升　　37\n4.1　先有鸡还是先有蛋　　37\n4.2　编译器再度来袭　　38\n4.3　函数优先　　40\n4.4　小结　　41\n第5章　作用域闭包　　43\n5.1　启示　　43\n5.2　实质问题　　44\n5.3　现在我懂了　　47\n5.4　循环和闭包　　48\n5.5　模块　　51\n5.5.1　现代的模块机制　　54\n5.5.2　未来的模块机制　　56\n5.6　小结　　57\n附录A　动态作用域　　58\n附录B　块作用域的替代方案　　60\n附录C　this词法　　64\n附录D　致谢　　67\n第二部分　this和对象原型\n序　　72\n第1章　关于this　　74\n1.1　为什么要用this　　74\n1.2　误解　　76\n1.2.1　指向自身　　76\n1.2.2　它的作用域　　79\n1.3　this到底是什么　　80\n1.4　小结　　80\n第2章　this全面解析　　82\n2.1　调用位置　　82\n2.2　绑定规则　　83\n2.2.1　默认绑定　　83\n2.2.2　隐式绑定　　85\n2.2.3　显式绑定　　87\n2.2.4　new绑定　　90\n2.3　优先级　　91\n2.4　绑定例外　　95\n2.4.1　被忽略的this　　96\n2.4.2　间接引用　　97\n2.4.3　软绑定　　98\n2.5　this词法　　99\n2.6　小结　　101\n第3章　对象　　102\n3.1　语法　　102\n3.2　类型　　103\n3.3　内容　　105\n3.3.1　可计算属性名　　106\n3.3.2　属性与方法　　107\n3.3.3　数组　　108\n3.3.4　复制对象　　109\n3.3.5　属性描述符　　111\n3.3.6　不变性　　114\n3.3.7　[[Get]]　　115\n3.3.8　[[Put]]　　116\n3.3.9　Getter和Setter　　117\n3.3.10　存在性　　119\n3.4　遍历　　121\n3.5　小结　　124\n第4章　混合对象“类”　　126\n4.1　类理论　　126\n4.1.1　“类”设计模式　　127\n4.1.2　JavaScript中的“类”　　128\n4.2　类的机制　　128\n4.2.1　建造　　128\n4.2.2　构造函数　　130\n4.3　类的继承　　130\n4.3.1　多态　　132\n4.3.2　多重继承　　134\n4.4　混入　　134\n4.4.1　显式混入　　135\n4.4.2　隐式混入　　139\n4.5　小结　　140\n第5章　原型　　142\n5.1　[[Prototype]]　　142\n5.1.1　Object.prototype　　144\n5.1.2　属性设置和屏蔽　　144\n5.2　“类”　　146\n5.2.1　“类”函数　　146\n5.2.2　“构造函数”　　149\n5.2.3　技术　　151\n5.3　（原型）继承　　153\n5.4　对象关联　　159\n5.4.1　创建关联　　159\n5.4.2　关联关系是备用　　161\n5.5　小结　　162\n第6章　行为委托　　164\n6.1　面向委托的设计　　165\n6.1.1　类理论　　165\n6.1.2　委托理论　　166\n6.1.3　比较思维模型　　170\n6.2　类与对象　　173\n6.2.1　控件“类”　　174\n6.2.2　委托控件对象　　176\n6.3　更简洁的设计　　178\n6.4　更好的语法　　182\n6.5　内省　　185\n6.6　小结　　187\n附录A　ES6中的Class　　189",
+        "ebook_url": "https:\/\/read.douban.com\/ebook\/12051836\/",
+        "pages": "195",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s28033372.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s28033372.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28033372.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/26351021\/",
+        "id": "26351021",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115385734",
+        "isbn13": "9787115385734",
+        "title": "你不知道的JavaScript（上卷）",
+        "url": "https:\/\/api.douban.com\/v2\/book\/26351021",
+        "alt_title": "",
+        "author_intro": "作者简介：\nKyle Simpson\n推崇开放的互联网，对JavaScript、HTML5、实时\/端对端通信和Web性能有深入研究。他是技术书作家、技术培训师、讲师和开源社区的活跃成员。\n译者简介：\n赵望野\n前端工程师，前端基础技术组leader，曾经负责豌豆荚2.0的前端架构设计和主要开发工作，目前负责Front-end Technical Infrastructure的建设。新浪微博@赵望野。负责本书第一部分“作用域和闭包”的翻译。\n梁杰\n北京航空航天大学计算机科学与技术专业大四学生。热爱JavaScript、Python，热爱开源，喜欢做各种各样有趣的事情。负责本书第二部分“this和对象原型”的翻译。",
+        "summary": "JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。\n“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。",
+        "ebook_price": "24.99",
+        "series": {
+            "id": "40642",
+            "title": "你不知道的JavaScript"
+        },
+        "price": "49.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 1133,
+            "average": "8.7",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "Jeremy Keith"
+        ],
+        "pubdate": "2006年12月",
+        "tags": [
+            {
+                "count": 1165,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 489,
+                "name": "dom",
+                "title": "dom"
+            },
+            {
+                "count": 373,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 228,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 220,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 200,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 159,
+                "name": "入门",
+                "title": "入门"
+            },
+            {
+                "count": 151,
+                "name": "脚本语言",
+                "title": "脚本语言"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s1958902.jpg",
+        "binding": "简裝本",
+        "translator": [
+            "杨涛",
+            "王建桥",
+            "杨晓云"
+        ],
+        "catalog": "第1章 javascript简史 1\n1.1　javascript的起源 2\n1.2　浏览器之争 3\n1.2.1　dhtml 3\n1.2.2　浏览器之间的冲突 4\n1.3　制定标准 5\n1.3.1　浏览器以外的考虑 5\n1.3.2　浏览器之争的结局 6\n1.3.3　新的开始 6\n1.4　小结 7\n第2章 javascript语法 9\n2.1　准备工作 9\n2.2　语法 11\n2.3　语句 11\n2.4　变量 13\n2.4.1　数据类型 15\n2.4.2　数组 17\n2.5　操作 20\n2.6　条件语句 22\n2.6.1　比较操作符 23\n.2.6.2　逻辑操作符 24\n2.7　循环语句 25\n2.7.1　while 25\n2.7.2　do...while 26\n2.7.3　for 27\n2.8　函数 27\n2.9　对象 31\n2.9.1　内建对象 32\n2.9.2　宿主对象 33\n2.10　小结 33\n第3章 dom 35\n3.1　文档：dom中的“d” 35\n3.2　对象：dom中的“o” 35\n3.3　模型：dom中的“m” 36\n3.3.1　节点 38\n3.3.2　getelementbyid()方法 42\n3.3.3　getelementsbytagname()方法 44\n3.4　趁热打铁 46\n3.4.1　getattribute()方法 46\n3.4.2　setattribute()方法 48\n3.5　小结 49\n第4章 案例研究：javascript美术馆 51\n4.1　编写标记语言文档 52\n4.2　编写javascript函数 54\n4.2.1　dom之前的解决方案 55\n4.2.2　showpic()函数的代码清单 56\n4.3　javascript函数的调用 56\n4.4　对javascript函数进行功能扩展 59\n4.4.1　childnodes属性 59\n4.4.2　nodetype属性 60\n4.4.3　在html文档里增加一段描述性文本 61\n4.4.4　用javascript代码改变＜p＞元素的文本内容 62\n4.4.5　nodevalue属性 63\n4.4.6　firstchild和lastchild属性 63\n4.4.7　利用nodevalue属性刷新＜p＞元素的文本内容 64\n4.5　小结 68\n第5章 javascript编程原则和良好习惯 69\n5.1　不要误解javascript 69\n5.1.1　不要归罪于javascript 70\n5.1.2　flash的遭遇 71\n5.1.3　质疑 72\n5.2　预留退路 72\n5.2.1　“javascript:”伪协议 74\n5.2.2　内嵌的事件处理函数 74\n5.2.3　有何不好 74\n5.3　向css学习 75\n5.4　分离javascript 78\n5.5　向后兼容性 80\n5.6　小结 82\n第6章 案例研究：javascript美术馆改进版 83\n6.1　快速回顾 84\n6.2　解决“预留退路”问题 84\n6.3　解决“分离javascript”问题 85\n6.3.1　添加事件处理函数 86\n6.3.2　进行必要的检查 87\n6.3.3　创建必要的变量 89\n6.3.4　创建循环 90\n6.3.5　完成必要的操作 91\n6.3.6　完成javascript函数 91\n6.3.7　把多个javascript函数绑定到onload事件处理函数上 92\n6.4　javascript函数的优化：不要做太多的假设 94\n6.4.1　不放过每个细节 97\n6.4.2　键盘浏览功能 99\n6.4.3　慎用onkeypress事件处理函数 100\n6.4.4　把javascript与css结合起来 102\n6.5　dom core和html-dom 105\n6.6　小结 106\n第7章 动态创建html内容 109\n7.1　document.write()方法 110\n7.2　innerhtml属性 111\n7.3　dom提供的方法 114\n7.3.1　createelement()方法 115\n7.3.2　appendchild()方法 116\n7.3.3　createtextnode()方法 117\n7.4　重回“javascript美术馆” 121\n7.4.1　insertbefore()方法 123\n7.4.2　“javascript美术馆”二次改进版 127\n7.5　小结 131\n7.6　下章简介 132\n第8章 充实文档的内容 133\n8.1 不应该做的事情 133\n8.2 把“不可见”变成“可见” 134\n8.3 原始内容 135\n8.4 xhtml文档 137\n8.5 css 138\n8.6 javascript代码 139\n8.6.1 显示“缩略词语表” 139\n8.6.2 显示“文献来源链接表” 152\n8.6.3 显示“快速访问键清单” 158\n8.7 小结 161\n8.8 下章简介 162\n第9章 css-dom 163\n9.1 三位一体的网页 163\n9.1.1 结构层 163\n9.1.2 表示层 164\n9.1.3 行为层 164\n9.1.4 分离 165\n9.2 style属性 165\n9.2.1 样式信息的检索 167\n9.2.2 设置样式信息 172\n9.3 何时该用dom脚本去设置样式信息 174\n9.3.1 根据元素在节点树里的位置来设置样式信息 174\n9.3.2 根据某种条件来设置样式信息 178\n9.3.3 对事件做出响应 182\n9.4 classname属性 184\n9.5 小结 188\n第10章 用javascript实现动画效果 191\n10.1 何为动画 191\n10.1.1 位置 192\n10.1.2 时间 194\n10.1.3 抽象化 198\n10.2 实用的动画 205\n10.2.1 问题的提出 205\n10.2.2 问题的解决 207\n10.2.3 css 208\n10.2.4 javascript代码 210\n10.2.5 与变量的作用域有关的问题 214\n10.3 改进动画效果 216\n10.4 最后的优化 219\n10.5 小结 224\n第11章 学以致用：javascript网站设计实战 225\n11.1 案例背景介绍 225\n11.1.1 原始材料 226\n11.1.2 网站的结构 226\n11.1.3 网页的结构 227\n11.2 页面视觉效果设计 228\n11.3 css 229\n11.4 颜色 231\n11.4.1 布局 232\n11.4.2 字型 234\n11.5 xhtml文档 236\n11.6 javascript脚本 236\n11.6.1 当前页面的标识 238\n11.6.2 javascript动画 242\n11.6.3 内部浏览 247\n11.6.4 javascript美术馆 251\n11.6.5 改进表格 254\n11.6.6 改进表单 259\n11.7 小结 268\n11.8 下章简介 268\n第12章 展望dom脚本编程技术 269\n12.1 web的现状 269\n12.1.1 web浏览器 270\n12.1.2 web设计师 271\n12.1.3 三条腿的凳子 272\n12.2 ajax技术 274\n12.2.1 xmlhttprequest对象 275\n12.2.2 ajax技术的爆发 278\n12.2.3 循序渐进：如何运用ajax技术 279\n12.2.4 ajax技术的未来 281\n12.3 web应用 282\n12.4 小结 283\n附录 dom方法和属性 285",
+        "pages": "316",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s1958902.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s1958902.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s1958902.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/1921890\/",
+        "id": "1921890",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115139210",
+        "isbn13": "9787115139214",
+        "title": "JavaScript DOM编程艺术",
+        "url": "https:\/\/api.douban.com\/v2\/book\/1921890",
+        "alt_title": "",
+        "author_intro": "",
+        "summary": "本书讲述了JavaScript和DOM的基础知识，但重点放在DOM编程技术背后的思路和原则：预留退路、循序渐进和以用户为中心等，这些概念对于任何前端Web开发工作都非常重要。本书将这些概念贯穿在书中的所有代码示例中，使你看到用来创建图片库页面的脚本、用来创建动画效果的脚本和用来丰富页面元素呈现效果的脚本，最后结合所讲述的内容创建了一个实际的网站。\n本书适合Web设计师和开发人员阅读。",
+        "series": {
+            "id": "28503",
+            "title": "图灵程序设计丛书·Web开发系列"
+        },
+        "price": "39.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 979,
+            "average": "8.6",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "Nicholas C. Zakas"
+        ],
+        "pubdate": "2006年9月",
+        "tags": [
+            {
+                "count": 1104,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 248,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 181,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 139,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 139,
+                "name": "AJAX",
+                "title": "AJAX"
+            },
+            {
+                "count": 115,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 102,
+                "name": "js",
+                "title": "js"
+            },
+            {
+                "count": 73,
+                "name": "programming",
+                "title": "programming"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img1.doubanio.com\/view\/subject\/m\/public\/s1888787.jpg",
+        "binding": "平装",
+        "translator": [
+            "曹力",
+            "张欣"
+        ],
+        "catalog": "",
+        "pages": "670",
+        "images": {
+            "small": "https://img1.doubanio.com\/view\/subject\/s\/public\/s1888787.jpg",
+            "large": "https://img1.doubanio.com\/view\/subject\/l\/public\/s1888787.jpg",
+            "medium": "https://img1.doubanio.com\/view\/subject\/m\/public\/s1888787.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/1869705\/",
+        "id": "1869705",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115152098",
+        "isbn13": "9787115152091",
+        "title": "JavaScript高级程序设计",
+        "url": "https:\/\/api.douban.com\/v2\/book\/1869705",
+        "alt_title": "Professional JavaScript for Web Developers",
+        "author_intro": "Nicholas C.Zakas世界知名的JavaScript专家和Web开发人员。Nicholas拥有丰富的Web开发和界面设计经验，曾经参与许多世界大公司的Web解决方案开发，并与他人合作撰写了畅销书《Ajax高级程序设计》。",
+        "summary": "JavaScript最新经典教程 * Amazon超级畅销书 * AJAX程序员必备\r\n\r\n  随着国内的计算机图书市场越来越细化，各类引进版和原创图书在各自领域内如雨后春笋般展露头角，各类“经典”和“圣经”横空出世。但是有一个领域内却一直遗留了大片空白，就是JavaScript类图书。除了O'Reilly的《JAVASCRIPT权威指南》之外，国内一直没有出现过特别优秀的同类图书。就在这时，Wrox的《Professional JavaScript for Web Developers》走进了我们的视野，中文名是《JAVASCRIPT高级程序设计》\r\n\r\nJavaScript是目前Web客户端开发的主要编程语言，也是Ajax的核心技术之一。本书从最早期Netscape浏览器中的JavaScript 开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的 JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化\/混淆化、XML和 Web服务，最后介绍应用所有这些知识来创建动态用户界面。\r\n本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材。\r\n\r\n 新增DOM概念,如何实现正则表达式进行数据验证和字符串操作,把JavaScript联系到Web用户界面的事件处理方法； 数据验证、表排序和错误处理的方法等\r\n\r\n目录\r\n\r\n第1章  JavaScript是什么 1\r\n1.1  历史简述 1\r\n1.2  JavaScript实现 2\r\n1.2.1  ECMAScript 3\r\n1.2.2  DOM 5\r\n1.2.3  BOM 8\r\n1.3  小结 8\r\n第2章  ECMAScript基础 9\r\n2.1  语法 9\r\n2.2  变量 10\r\n2.3  关键字 12\r\n2.4  保留字 12\r\n2.5  原始值和引用值 13\r\n2.6  原始类型 13\r\n2.6.1  typeof运算符 14\r\n2.6.2  Undefined类型 14\r\n2.6.3  Null类型 15\r\n2.6.4  Boolean类型 15\r\n2.6.5  Number类型 15\r\n2.6.6  String类型 17\r\n2.7  转换 18\r\n2.7.1  转换成字符串 18\r\n2.7.2  转换成数字 19\r\n2.7.3  强制类型转换 20\r\n2.8  引用类型 22\r\n2.8.1  Object类 22\r\n2.8.2  Boolean类 23\r\n2.8.3  Number类 23\r\n2.8.4  String类 24\r\n2.8.5  instanceof运算符 28\r\n2.9  运算符 28\r\n2.9.1  一元运算符 28\r\n2.9.2  位运算符 32\r\n2.9.3  Boolean运算符 37\r\n2.9.4  乘性运算符 40\r\n2.9.5  加性运算符 41\r\n2.9.6  关系运算符 42\r\n2.9.7  等性运算符 43\r\n2.9.8  条件运算符 45\r\n2.9.9  赋值运算符 45\r\n2.9.10  逗号运算符 46\r\n2.10  语句 46\r\n2.10.1  if语句 46\r\n2.10.2  迭代语句 47\r\n2.10.3  有标签的语句 48\r\n2.10.4  break语句和continue语句 48\r\n2.10.5  with语句 50\r\n2.10.6  switch语句 50\r\n2.11  函数 51\r\n2.11.1  无重载 53\r\n2.11.2  arguments对象 53\r\n2.11.3  Function类 54\r\n2.11.4  闭包 56\r\n2.12  小结 57\r\n第3章  对象基础 58\r\n3.1  面向对象术语 58\r\n3.1.1  面向对象语言的要求 58\r\n3.1.2  对象的构成 59\r\n3.2  对象应用 59\r\n3.2.1  声明和实例化 59\r\n3.2.2  对象引用 59\r\n3.2.3  对象废除 59\r\n3.2.4  早绑定和晚绑定 60\r\n3.3  对象的类型 60\r\n3.3.1  本地对象 60\r\n3.3.2  内置对象 70\r\n3.3.3  宿主对象 75\r\n3.4  作用域 75\r\n3.4.1  公用、受保护和私有作用域 75\r\n3.4.2  静态作用域并非静态的 76\r\n3.4.3  关键字this 76\r\n3.5  定义类或对象 78\r\n3.5.1  工厂方式 78\r\n3.5.2  构造函数方式 80\r\n3.5.3  原型方式 80\r\n3.5.4  混合的构造函数\/原型方式 81\r\n3.5.5  动态原型方法 82\r\n3.5.6  混合工厂方式 83\r\n3.5.7  采用哪种方式 84\r\n3.5.8  实例 84\r\n3.6  修改对象 86\r\n3.6.1  创建新方法 86\r\n3.6.2  重定义已有方法 87\r\n3.6.3  极晚绑定 88\r\n3.7  小结 88\r\n第4章  继承 89\r\n4.1  继承机制实例 89\r\n4.2  继承机制的实现 90\r\n4.2.1  继承的方式 90\r\n4.2.2  一个更实际的例子 96\r\n4.3  其他继承方式 100\r\n4.3.1  zInherit 100\r\n4.3.2  xbObjects 104\r\n4.4  小结 108\r\n第5章  浏览器中的JavaScript 109\r\n5.1  HTML中的JavaScript 109\r\n5.1.1  〈script\/〉标签 109\r\n5.1.2  外部文件格式 110\r\n5.1.3  内嵌代码和外部文件 111\r\n5.1.4  标签放置 111\r\n5.1.5  隐藏还是不隐藏 113\r\n5.1.6  〈noscript\/〉标签 113\r\n5.1.7  XHTML中的改变 114\r\n5.2  SVG中的JavaScript 116\r\n5.2.1  SVG基础 116\r\n5.2.2  SVG中的〈script\/〉标签 117\r\n5.2.3  SVG中的标签放置 118\r\n5.3  BOM 119\r\n5.3.1  window对象 119\r\n5.3.2  document对象 130\r\n5.3.3  location对象 133\r\n5.3.4  navigator对象 135\r\n5.3.5  screen对象 136\r\n5.4  小结 137\r\n第6章  DOM基础 138\r\n6.1  什么是DOM？ 138\r\n6.1.1  XML简介 138\r\n6.1.2  针对XML的API 141\r\n6.1.3  节点的层次 141\r\n6.1.4  特定语言的DOM 144\r\n6.2  对DOM的支持 145\r\n6.3  使用DOM 145\r\n6.3.1  访问相关的节点 145\r\n6.3.2  检测节点类型 146\r\n6.3.3  处理特性 147\r\n6.3.4  访问指定节点 148\r\n6.3.5  创建和操作节点 150\r\n6.4  HTML DOM特征功能 155\r\n6.4.1  让特性像属性一样 155\r\n6.4.2  table方法 156\r\n6.5  遍历DOM 158\r\n6.5.1  NodeIterator 158\r\n6.5.2  TreeWalker 163\r\n6.6  测试与DOM标准的一致性 165\r\n6.7  DOM Level 3 166\r\n6.8  小结 166\r\n第7章  正则表达式 167\r\n7.1  正则表达式支持 167\r\n7.1.1  使用RegExp对象 168\r\n7.1.2  扩展的字符串方法 169\r\n7.2  简单模式 170\r\n7.2.1  元字符 170\r\n7.2.2  使用特殊字符 170\r\n7.2.3  字符类 172\r\n7.2.4  量词 174\r\n7.3  复杂模式 177\r\n7.3.1  分组 177\r\n7.3.2  反向引用 178\r\n7.3.3  候选 179\r\n7.3.4  非捕获性分组 180\r\n7.3.5  前瞻 181\r\n7.3.6  边界 182\r\n7.3.7  多行模式 183\r\n7.4  理解RegExp对象 184\r\n7.4.1  实例属性 184\r\n7.4.2  静态属性 185\r\n7.5  常用模式 186\r\n7.5.1  验证日期 187\r\n7.5.2  验证信用卡号 188\r\n7.5.3  验证电子邮件地址 192\r\n7.6  小结 193\r\n第8章  检测浏览器和操作系统 194\r\n8.1  navigator对象 194\r\n8.2  检测浏览器的方式 194\r\n8.2.1  对象\/特征检测法 194\r\n8.2.2  user-agent字符串检测法 195\r\n8.3  user-agent字符串简史 196\r\n8.3.1  Netscape Navigator 3.0与 IE3.0 196\r\n8.3.2  Netscape Communicator 4.0与IE 4.0 197\r\n8.3.3  IE 5.0及更高版本 198\r\n8.3.4  Mozilla 198\r\n8.3.5  Opera 200\r\n8.3.6  Safari 201\r\n8.3.7  结语 201\r\n8.4  浏览器检测脚本 201\r\n8.4.1  方法学 202\r\n8.4.2  第一步 202\r\n8.4.3  检测Opera 204\r\n8.4.4  检测Konqueror\/Safari 206\r\n8.4.5  检测IE 208\r\n8.4.6  检测Mozilla 209\r\n8.4.7  检测Netscape Communicator       4.x 210\r\n8.5  平台\/操作系统检测脚本 211\r\n8.5.1  方法学 211\r\n8.5.2  第一步 212\r\n8.5.3  检测Windows操作系统 212\r\n8.5.4  检测Macintosh操作系统 214\r\n8.5.5  检测Unix操作系统 214\r\n8.6  全部脚本 215\r\n8.7  例子：登录页面 219\r\n8.8  小结 224\r\n第9章  事件 225\r\n9.1  今天的事件 225\r\n9.2  事件流 226\r\n9.2.1  冒泡型事件 226\r\n9.2.2  捕获型事件 227\r\n9.2.3  DOM事件流 228\r\n9.3  事件处理函数\/监听函数 229\r\n9.3.1  IE 230\r\n9.3.2  DOM 231\r\n9.4  事件对象 232\r\n9.4.1  定位 233\r\n9.4.2  属性\/方法 233\r\n9.4.3  相似性 235\r\n9.4.4  区别 238\r\n9.5  事件的类型 240\r\n9.5.1  鼠标事件 240\r\n9.5.2  键盘事件 244\r\n9.5.3  HTML事件 246\r\n9.5.4  变化事件 251\r\n9.6  跨平台的事件 252\r\n9.6.1  EventUtil对象 252\r\n9.6.2  添加\/删除事件处理函数 252\r\n9.6.3  格式化event对象 254\r\n9.6.4  获取事件对象 258\r\n9.6.5  示例 259\r\n9.7  小结 260\r\n第10章  高级DOM技术 261\r\n10.1  样式编程 261\r\n10.1.1  DOM样式的方法 263\r\n10.1.2  自定义鼠标提示 264\r\n10.1.3  可折叠区域 265\r\n10.1.4  访问样式表 266\r\n10.1.5  最终样式 270\r\n10.2  innerText和innerHTML 271\r\n10.3  outerText和outerHTML 273\r\n10.4  范围 274\r\n10.4.1  DOM中的范围 274\r\n10.4.2  IE中的范围 284\r\n10.4.3  范围在实际中的应用 288\r\n10.5  小结 288\r\n第11章  表单和数据完整性 289\r\n11.1  表单基础 289\r\n11.2  对〈form\/〉元素进行脚本编写 291\r\n11.2.1  获取表单的引用 291\r\n11.2.2  访问表单字段 291\r\n11.2.3  表单字段的共性 292\r\n11.2.4  聚焦于第一个字段 292\r\n11.2.5  提交表单 293\r\n11.2.6  仅提交一次 294\r\n11.2.7  重置表单 295\r\n11.3  文本框 295\r\n11.3.1  获取\/更改文本框的值 296\r\n11.3.2  选择文本 297\r\n11.3.3  文本框事件 298\r\n11.3.4  自动选择文本 298\r\n11.3.5  自动切换到下一个 299\r\n11.3.6  限制textarea的字符数 300\r\n11.3.7  允许\/阻止文本框中的字符 301\r\n11.3.8  使用上下按键操作数字文本 306\r\n11.4  列表框和组合框 308\r\n11.4.1  访问选项 309\r\n11.4.2  获取\/更改选中项 309\r\n11.4.3  添加选项 310\r\n11.4.4  删除选项 311\r\n11.4.5  移动选项 312\r\n11.4.6  重新排序选项 313\r\n11.5  创建自动提示的文本框 313\r\n11.5.1  匹配 314\r\n11.5.2  内部机制 314\r\n11.6  小结 316\r\n第12章  表格排序 317\r\n12.1  起点——数组 317\r\n12.2  对单列的表格排序 319\r\n12.2.1  比较函数 320\r\n12.2.2  sortTable()函数 320\r\n12.3  对多列表格进行排序 323\r\n12.3.1  比较函数生成器 323\r\n12.3.2  修改sortTable()方法 324\r\n12.3.3  逆序排列 325\r\n12.3.4  对不同的数据类型进行排序 327\r\n12.3.5  高级排序 330\r\n12.4  小结 334\r\n第13章  拖放 335\r\n13.1  系统拖放 335\r\n13.1.1  拖放事件 336\r\n13.1.2  数据传输对象dataTransfer 341\r\n13.1.3  dragDrop()方法 345\r\n13.1.4  优点及缺点 346\r\n13.2  模拟拖放 346\r\n13.2.1  代码 347\r\n13.2.2  创建放置目标 349\r\n13.2.3  优点及缺点 352\r\n13.3  zDragDrop 352\r\n13.3.1  创建可拖动元素 352\r\n13.3.2  创建放置目标 353\r\n13.3.3  事件 353\r\n13.3.4  例子 354\r\n13.4  小结 355\r\n第14章  错误处理 356\r\n14.1  错误处理的重要性 356\r\n14.2  错误和异常 357\r\n14.3  错误报告 358\r\n14.3.1  IE（Windows） 358\r\n14.3.2  IE（MacOS） 359\r\n14.3.3  Mozilla（所有平台） 359\r\n14.3.4  Safari（MacOS） 360\r\n14.3.5  Opera 7（所有平台） 361\r\n14.4  处理错误 362\r\n14.4.1  onerror事件处理函数 362\r\n14.4.2  try...catch语句 365\r\n14.5  调试技巧 370\r\n14.5.1  使用警告框 370\r\n14.5.2  使用Java控制台 371\r\n14.5.3  将消息写入JavaScript控制台 （仅限Opera 7+） 372\r\n14.5.4  抛出自定义错误 372\r\n14.5.5  JavaScript校验器 373\r\n14.6  调试器 374\r\n14.6.1  Microsoft Script Debugger 374\r\n14.6.2  Venkman 376\r\n14.7  小结 383\r\n第15章  JavaScript中的XML 384\r\n15.1  浏览器中的XML DOM支持 384\r\n15.1.1  IE中的XML DOM支持 384\r\n15.1.2  Mozilla中XML DOM支持 388\r\n15.1.3  通用接口 393\r\n15.2  浏览器中的XPath支持 403\r\n15.2.1  XPath简介 403\r\n15.2.2  IE中的XPath支持 404\r\n15.2.3  Mozilla中的XPath支持 404\r\n15.3  浏览器中的XSLT支持 408\r\n15.3.1  IE中的XSLT支持 410\r\n15.3.2  Mozilla中XSLT支持 413\r\n15.4  小结 415\r\n第16章  客户端与服务器端的通信 416\r\n16.1  cookie 416\r\n16.1.1  cookie的成分 416\r\n16.1.2  其他安全限制 417\r\n16.1.3  JavaScript中的cookie 417\r\n16.1.4  服务器端的cookie 419\r\n16.1.5  在客户端与服务器端之间传递cookie 422\r\n16.2  隐藏框架 423\r\n16.3  HTTP请求 426\r\n16.3.1  使用HTTP首部 428\r\n16.3.2  实现的复制品 429\r\n16.3.3  进行GET请求 430\r\n16.3.4  进行POST请求 430\r\n16.4  LiveConnect请求 431\r\n16.4.1  进行GET请求 431\r\n16.4.2  进行POST请求 433\r\n16.5  智能HTTP请求 435\r\n16.5.1  get()方法 435\r\n16.5.2  post()方法 438\r\n16.6  实际使用 439\r\n16.7  小结 439\r\n第17章  Web服务 440\r\n17.1  Web服务快速入门 440\r\n17.1.1  Web服务是什么？ 440\r\n17.1.2  WSDL 441\r\n17.2  IE中的Web服务 443\r\n17.2.1  使用WebService组件 444\r\n17.2.2  WebService组件例子 445\r\n17.3  Mozilla中的Web服务 447\r\n17.3.1  加强的特权 447\r\n17.3.2  使用SOAP方法 448\r\n17.3.3  使用WSDL代理 451\r\n17.4  跨浏览器的方案 454\r\n17.4.1  WebService对象 454\r\n17.4.2  Temperature 服务 456\r\n17.4.3  使用TemperatureService对象 458\r\n17.5  小结 458\r\n第18章  与插件进行交互 459\r\n18.1  为何使用插件 459\r\n18.2  流行的插件 460\r\n18.3  MIME类型 460\r\n18.4  嵌入插件 461\r\n18.4.1  加入参数 461\r\n18.4.2  Netscape 4.x 462\r\n18.5  检测插件 462\r\n18.5.1  检测Netscape式插件 463\r\n18.5.2  检测ActiveX插件 467\r\n18.5.3  跨浏览器检测 469\r\n18.6  Java applet 470\r\n18.6.1  嵌入applet 470\r\n18.6.2  在JavaScript中引用applet 471\r\n18.6.3  创建applet 471\r\n18.6.4  JavaScript到Java的通信 472\r\n18.6.5  Java到JavaScript的通信 475\r\n18.7  Flash动画 477\r\n18.7.1  嵌入Flash动画 477\r\n18.7.2  引用Flash动画 478\r\n18.7.3  JavaScript到Flash的通信 478\r\n18.7.4  Flash到JavaScript通信 481\r\n18.8  ActiveX控件 483\r\n18.9  小结 485\r\n第19章  部署问题 486\r\n19.1  安全性 486\r\n19.1.1  同源策略 486\r\n19.1.2  窗口对象问题 487\r\n19.1.3  Mozilla特有的问题 488\r\n19.1.4  资源限制 490\r\n19.2  国际化 491\r\n19.2.1  使用JavaScript检测语言 491\r\n19.2.2  策略 492\r\n19.2.3  字符串的思考 492\r\n19.3  优化JavaScript 495\r\n19.3.1  下载时间 495\r\n19.3.2  执行时间 499\r\n19.4  知识产权的问题 512\r\n19.4.1  混淆 512\r\n19.4.2  Microsoft Script Encoder（仅IE） 513\r\n19.5  小结 514\r\n第20章  JavaScript的未来 515\r\n20.1  ECMAScript 4 515\r\n20.1.1  Netscape的提案 515\r\n20.1.2  实现 521\r\n20.2  ECMAScript for XML 522\r\n20.2.1  途径 522\r\n20.2.2  for each..in循环 524\r\n20.2.3  新的类 524\r\n20.2.4  实现 532\r\n20.3  小结 532\r\n索引",
+        "series": {
+            "id": "28503",
+            "title": "图灵程序设计丛书·Web开发系列"
+        },
+        "price": "59.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 104,
+            "average": "7.4",
+            "min": 0
+        },
+        "subtitle": "将JavaScript进行到底",
+        "author": [
+            "劳奇 (Guillermo Rauch)"
+        ],
+        "pubdate": "2014-1",
+        "tags": [
+            {
+                "count": 143,
+                "name": "Node.js",
+                "title": "Node.js"
+            },
+            {
+                "count": 58,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 33,
+                "name": "node.js",
+                "title": "node.js"
+            },
+            {
+                "count": 31,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 25,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 21,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 18,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 18,
+                "name": "前端",
+                "title": "前端"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s27132823.jpg",
+        "binding": "平装",
+        "translator": [
+            "赵静"
+        ],
+        "catalog": "PART Ⅰ　从安装与概念开始\nCHAPTER 1　安装............................................... 3\n在Windows下安装............................................... 3\n在OS.X下安装. ................................................ 4\n在Linux下安装................................................. 5\n编译. ............................................................5\n确保安装成功. ...............................................5\nNode.REPL................................................. 5\n执行文件.......................................................... 6\nNPM................................................................. 6\n安装模块...........................................................7\n自定义模块. .......................................................8\n安装二进制工具包. ..................................................9\n浏览NPM仓库. .......................................................9\n小结................................................................. 10\nCHAPTER 2　JavaScript概览.........................................11\n介绍.......................................................... 11\nJavaScript基础..................................................... 12\n类型. ......................................................... 12\n类型的困惑. ............................................... 12\n函数. .......................................................... 13\nTHIS、FUNCTION #CALL以及FUNCTION#APPLY.................... 14\n函数的参数数量. ........................... 14\n闭包. ........................................................ 14\n类. .............................................................. 15\n继承. ..................................................... 16\nTRY.{}.CATCH.{}...................................... 17\nv8中的JavaScript............................... 17\nOBJECT#KEYS....................................................... 18\nARRAY#ISARRAY................................................ 18\n数组方法................................................. 18\n字符串方法.. .................................................... 19\nJSON............................................................. 19\nFUNCTION#BIND....................................................... 19\nFUNCTION#NAME.............................................. 19\n_PROTO_（继承）. ............................................ 20\n存取器....................................................... 20\n小结.............................................................. 21\nCHAPTER ３　阻塞与非阻塞IO................................. 23\n能力越强，责任就越大................................................. 23\n阻塞. ............................................................. 25\n单线程的世界. ............................................... 27\n错误处理..................................................... 29\n堆栈追踪................................................ 30\n小结............................................................... 32\nCHAPTER 4　Node中的JavaScript ..................................... 33\nglobal对象....................................................... 33\n实用的全局对象. ................................................ 34\n模块系统............................................................ 34\n绝对和相对模块. .................................................. 35\n暴露API. ............................................................... 37\n事件......................................................... 38\nbuffer............................................................... 40\n小结................................................................... 41\nPART Ⅱ　Node重要的API\nCHAPTER 5　命令行工具（CLI）以及FS API：首个Node应用................... 45\n需求................................................. 45\n编写首个Node程序...................................... 46\n创建模块.............................................. 46\n同步还是异步. ............................ 47\n理解什么是流（stream）................................... 49\n输入和输出. .......................................................... 50\n重构. ........................................ 53\n用fs进行文件操作. .............................. 55\n对CLI一探究竟. ................................................. 56\nargv.................................................... 57\n工作目录...................................... 57\n环境变量........................................... 58\n退出. ............................................... 58\n信号. .......................................................... 58\nANSI转义码............................................ 59\n对fs一探究竟. ................................................. 59\nStream......................................................... 59\n监视. .......................................... 60\n小结...................................................... 61\nCHAPTER 6　TCP ........................................... 63\nTCP有哪些特性. ..................................................... 64\n面向连接的通信和保证顺序的传递. ........................... 64\n面向字节........................................ 65\n可靠性............................................... 65\n流控制......................................... 65\n拥堵控制.............................................. 65\nTelnet................................................................ 65\n基于TCP的聊天程序............................................... 68\n创建模块..................................... 68\n理解NET.SERVER.API........................ 68\n接收连接....................................... 70\ndata事件. ...................................................... 71\n状态以及记录连接情况. ........................................ 73\n圆满完成此程序. ............................................ 75\n一个IRC客户端程序.......................................... 77\n创建模块.............................................. 77\n理解NET#STREAM.API.. ......................................... 78\n实现部分IRC协议. .................................................. 78\n测试实际的IRC服务器. .................................. 78\n小结................................................................. 79\nCHAPTER 7　HTTP .................................................. 81\nHTTP结构......................................................... 81\n头信息. ...................................................... 82\n连接.............................................................. 87\n一个简单的Web服务器.................................................. 88\n创建模块....................................... 88\n输出表单.................................................... 88\nmethod和URL. ........................................... 90\n数据. .............................................. 92\n整合. ................................................ 94\n让程序更健壮. ..................................... 95\n一个Twitter.Web客户端......................................... 96\n创建模块....................................... 96\n发送一个简单的HTTP请求. ...................... 97\n发送数据......................................... 98\n获取推文................................................. 99\nsuperagent来拯救.............................................. 102\n使用up重启HTTP服务器..................................... 103\n小结............................................. 104\nPART Ⅲ　Web开发\nCHAPTER 8　Connect .............................. 107\n使用HTTP构建一个简单的网站. ....................................... 108\n通过Connect实现一个简单的网站...................................... 111\n中间件. ................................................. 112\n书写可重用的中间件. .........................114\nstatic中间件. .............................................119\nquery中间件. .......................................120\nlogger中间件................................................... 120\nbody.parser中间件. .................................122\ncookie.........................................................125\n会话（session）. ......................................126\nRedis.session..................................................131\nmethodOverride中间件. ...........................132\nbasicAuth中间件. ......................................132\n小结.............................................................. 134\nCHAPTER 9　Express..................................................135\n一个小型Express应用. ...................................... 135\n创建模块..............................................136\nHTML...........................................................136\nSETUP..........................................................137\n定义路由............................................137\n查询. .................................................140\n运行. .....................................................141\n设置......................................................... 142\n模板引擎...................................................... 143\n错误处理........................................................ 144\n快捷方法................................................. 144\n路由................................................ 146\n中间件. .................................................... 148\n代码组织策略. ......................................... 149\n小结................................................. 151\nCHAPTER 10　WebSocket .................. 153\nAjax.............................................. 153\nHTML5.WebSocket............................................... 156\n一个ECHO示例. ......................................................... 157\n初始化项目. .............................................157\n建立服务器. ..................................................158\n建立客户端. ......................................159\n运行示例程序. ...................................160\n鼠标光标.......................................... 161\n初始化示例程序. .........................................161\n建立服务器. ............................................161\n建立客户端. .....................................164\n运行示例程序. .........................................166\n面临一个挑战. ............................................. 166\n关闭并不意味着断开连接. .............................166\nJSON...........................................167\n重连. ...................................................167\n广播. ................................................167\nWebSocket属于HTML5：早期浏览器不支持. ..........................167\n解决方案.................................................167\n小结............................................................. 167\nCHAPTER 11　Socket.IO.............................................169\n传输................................................. 170\n断开.VS.关闭. ............................................170\n事件. ..........................................170\n命名空间..............................................171\n聊天程序................................................. 172\n初始化程序. .......................................172\n构建服务器. ..........................................172\n构建客户端. .......................................173\n事件和广播. ........................................175\n消息接收确认. .................................179\n一个轮流做DJ的应用................................ 180\n扩展聊天应用. ...........................................181\n集成Grooveshark.API. ...............................182\n播放歌曲...............................................185\n小结.................................................... 190\nPART Ⅳ　数据库\nCHAPTER 12　MongoDB.......................193\n安装.................................................. 195\n使用MongoDB：一个用户认证的例子. .................................. 195\n构建应用程序. .......................................195\n创建Express.App.. ..............................196\n连接MongoDB. ...................................200\n创建文档......................................201\n查找文档..................................203\n身份验证中间件. ..................................204\n校验.. ..............................................205\n原子性..............................................206\n安全模式................................206\nMongoose介绍......................................... 206\n定义模型........................................207\n定义嵌套的键. ..........................208\n定义嵌套文档. .....................................209\n构建索引..........................................209\n中间件.................................................209\n探测模型状态.. ...............................210\n查询. ..............................................210\n扩展查询........................................210\n排序.. ........................................211\n选择. ......................................................211\n限制.. .....................................211\n跳过. .........................................211\n自动产生键. ...............................211\n转换. ..............................................212\n一个使用Mongoose的例子........................................ 212\n构建应用.................................212\n重构. ..............................213\n建立模型.................................213\n小结.......................................... 215\nCHAPTER 13　MySQL...........................................217\nnode-mysql........................................ 217\n初始化项目. .......................................217\nExpress应用. ...................................218\n连接MySQL. .....................................219\n初始化脚本. .......................................220\n创建数据................................................224\n获取数据.....................................228\nsequelize............................................ 229\n初始化sequelize. ................................230\n初始化Express应用. ....................................230\n连接sequelize. .........................233\n定义模型和同步. ........................... 234\n创建数据.................................236\n获取数据......................................238\n删除数据..............................239\n完整地完成应用. ...............................240\n小结.......................................... 241\nCHAPTER 14　Redis......................................... 243\n安装Redis............................................... 244\nRedis查询语言. ............................................... 245\n数据类型............................................. 245\n字符串. ...................................246\n哈希. .................................................246\n列表. ......................................... 248\n数据集. .....................................249\n有序数据集. .........................................249\nRedis和Node. .......................................... 249\n使用node-redis实现一个社交图谱. .............250\n小结......................................... 259\nPART Ⅴ　测试\nCHAPTER 15　代码共享 ................................. 263\n什么样的代码可以共享........................................... 263\n书写兼容的JavaScript代码................................ 264\n导出模块......................................................264\n模拟实现ECMA.API. ................................265\n模拟实现Node.API. ......................................267\n模拟实现浏览器端API. ...............................267\n跨浏览器的继承实现. ...........................268\n集成到一起：browserbuild. ...................... 268\n基础案例....................................269\n小结......................................... 271\nCHAPTER 16　测试................................... 273\n简单测试........................................ 273\n测试目标............................................. 274\n测试策略................................... 274\n测试程序...................................................275\nexpect.js................................................. 276\nAPI一览. .........................................276\nMocha................................................. 278\n测试异步代码. ..................................279\nBDD风格. ................................281\nTDD风格. .......................................281\nexport风格. .................................282\n在浏览器端使用Mocha. ...................................282\n小结.................................... 284\n索引 ...................................... 285",
+        "pages": "292",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s27132823.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s27132823.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s27132823.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/25767596\/",
+        "id": "25767596",
+        "publisher": "电子工业出版社",
+        "isbn10": "7121217694",
+        "isbn13": "9787121217692",
+        "title": "了不起的Node.js",
+        "url": "https:\/\/api.douban.com\/v2\/book\/25767596",
+        "alt_title": "",
+        "author_intro": "Guillermo Rauch（旧金山，加利福尼亚州）是一家位于旧金山，为\n当地教育提供相关服务的创业公司LearnBoost的CTO和联合创始人。\nRauch还是几个知名Node.js项目的发明者，曾在JSConf和一些\nNode.js workshop做过演讲。\"\n译者介绍：\nGoddy Zhao（本名赵静），Successfactors(SAP子公司)软件工程师。毕业于复旦大学，先后在IBM、淘宝工作过，专注于企业级富客户端Web应用的开发，擅长前后端相结合的技术解决方案。曾与人合译过多本前端图书，并曾在沪JS及D2前端技术论坛担任过主持人和演讲嘉宾。个人主页http：\/\/goddyzhao.me。",
+        "summary": "本书是一本经典的 Learning by Doing的书籍。它由 Node社区著名的 Socket.IO作者—— Guillermo Rauch，通过大量的实践案例撰写，并由 Node社区非常活跃的开发者—— Goddy Zhao翻译而成。\n本书内容主要由对五大部分的介绍组成： Node核心设计理念、 Node核心模块 API、Web开发、数据库以及测试。从前到后、由表及里地对使用 Node进行 Web开发的每一个环节都进行了深入的讲解，并且最大的特点就是通过大量的实际案例、代码展示来剖析技术点，讲解最佳实践。",
+        "price": "79.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 355,
+            "average": "8.3",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "麦卡劳(Alex MacCaw)"
+        ],
+        "pubdate": "2012-5",
+        "tags": [
+            {
+                "count": 696,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 319,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 133,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 131,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 100,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 96,
+                "name": "Web",
+                "title": "Web"
+            },
+            {
+                "count": 80,
+                "name": "O'Reilly",
+                "title": "O'Reilly"
+            },
+            {
+                "count": 79,
+                "name": "编程",
+                "title": "编程"
+            }
+        ],
+        "origin_title": "JavaScript Web Applications",
+        "image": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27269298.jpg",
+        "binding": "平装",
+        "translator": [
+            "李晶",
+            "张散集"
+        ],
+        "catalog": "目  录\n第1章 MVC和类 ............................................................1\n最初 .........................................................................................................................1\n增加结构 ..................................................................................................................2\n什么是MVC ............................................................................................................2\n模型 ..................................................................................................................3\n视图 ..................................................................................................................4\n控制器 ..............................................................................................................5\n向模块化进军，创建类 ............................................................................................6\n给类添加函数...........................................................................................................7\n给“类”库添加方法 ...............................................................................................8\n基于原型的类继承 .................................................................................................10\n给“类”库添加继承 ............................................................................................. 11\n函数调用 ................................................................................................................12\n控制“类”库的作用域 ..........................................................................................15\n添加私有函数.........................................................................................................17\n“类”库 ..................................................................................................................18\n第2章 事件和监听 ........................................................21\n监听事件 ................................................................................................................21\n事件顺序 ................................................................................................................22\n取消事件 ................................................................................................................23\n事件对象 ................................................................................................................23\n事件库 ....................................................................................................................25\n切换上下文 ............................................................................................................26\n委托事件 ................................................................................................................26\n自定义事件 ............................................................................................................27\n自定义事件和jQuery 插件 .....................................................................................28\nDOM 无关事件 ......................................................................................................30\n第3章 模型和数据 ........................................................33\nMVC 和命名空间 ...................................................................................................33\n构建对象关系映射（ORM） ...................................................................................34\n原型继承 ........................................................................................................35\n添加ORM 属性 ..............................................................................................36\n持久化记录.....................................................................................................37\n增加ID 支持 ..........................................................................................................39\n寻址引用 ................................................................................................................40\n装载数据 ................................................................................................................41\n直接嵌套数据 .................................................................................................42\n通过Ajax 载入数据 ........................................................................................42\nJSONP ............................................................................................................46\n跨域请求的安全性 .........................................................................................46\n向ORM 中添加记录 ..............................................................................................47\n本地存储数据.........................................................................................................47\n给ORM 添加本地存储 ..........................................................................................49\n将新记录提交给服务器 ..........................................................................................51\n第4章 控制器和状态 .....................................................53\n模块模式 ................................................................................................................54\n全局导入 ........................................................................................................54\n全局导出 ........................................................................................................54\n添加少量上下文 .....................................................................................................55\n抽象出库 ........................................................................................................56\n文档加载完成后载入控制器 ..........................................................................58\n访问视图 ........................................................................................................59\n委托事件 ........................................................................................................61\n状态机 ....................................................................................................................63\n路由选择 ................................................................................................................65\n使用URL 中的hash .......................................................................................65\n检测hash 的变化 ............................................................................................66\n抓取Ajax .......................................................................................................67\n使用HTML5 History API ...............................................................................68\n第5章 视图和模板 ........................................................71\n动态渲染视图.........................................................................................................71\n模板 .......................................................................................................................73\n模板Helpers ...................................................................................................75\n模板存储 ........................................................................................................75\n绑定 .......................................................................................................................77\n模型中的事件绑定 .........................................................................................78\n第6章 依赖管理 ...........................................................81\nCommonJS .............................................................................................................82\n模块的声明.....................................................................................................83\n模块和浏览器 .................................................................................................83\n模块加载器 ............................................................................................................84\nYabble ............................................................................................................84\nRequireJS .......................................................................................................85\n包装模块 ................................................................................................................87\n模块的按需加载 .....................................................................................................88\nLABjs .............................................................................................................89\n无交互行为内容的闪烁（FUBC） ..........................................................................89\n第7章 使用文件 ...........................................................91\n浏览器支持 ............................................................................................................91\n获取文件信息.........................................................................................................92\n文件输入 ................................................................................................................92\n拖曳 .......................................................................................................................93\n拖曳 ................................................................................................................94\n释放拖曳 ........................................................................................................96\n撤销默认的Drag\/Drop ...................................................................................97\n复制和粘贴 ............................................................................................................97\n复制 ................................................................................................................98\n粘贴 ................................................................................................................99\n读文件 .................................................................................................................. 100\n二进制大文件和文件切割 ............................................................................ 101\n自定义浏览器按钮 ............................................................................................... 102\n上传文件 .............................................................................................................. 102\nAjax 进度条 .................................................................................................. 104\njQuery 拖曳上传 .................................................................................................. 106\n创建拖曳目标区域 ....................................................................................... 106\n上传文件 ...................................................................................................... 107\n第8章 实时Web .........................................................109\n实时Web 的发展历史 .......................................................................................... 109\nWebSocket ............................................................................................................ 110\nNode.js 和Socket.IO .................................................................................... 114\n实时架构 .............................................................................................................. 116\n感知速度 .............................................................................................................. 117\n第9章 测试和调试 ......................................................119\n单元测试 .............................................................................................................. 121\n断言 .............................................................................................................. 121\nQUnit ............................................................................................................ 122\nJasmine ......................................................................................................... 126\n驱动 ..................................................................................................................... 128\n无界面的测试....................................................................................................... 131\nZombie ......................................................................................................... 132\nIchabod ......................................................................................................... 134\n分布式测试 .......................................................................................................... 135\n提供支持 .............................................................................................................. 136\n调试工具 .............................................................................................................. 136\nWeb Inspector ............................................................................................... 136\nFirebug ......................................................................................................... 138\n控制台 .................................................................................................................. 139\n控制台函数................................................................................................... 140\n使用JavaScript 调试器 ........................................................................................ 141\n分析网络请求....................................................................................................... 143\nProfile 和函数运行时间 ....................................................................................... 144\n第10章 部署 ..............................................................147\n性能 ..................................................................................................................... 147\n缓存 ..................................................................................................................... 148\n源码压缩（Minification） ..................................................................................... 150\nGzip 压缩 ............................................................................................................. 151\n使用CDN ............................................................................................................. 152\n审查工具 .............................................................................................................. 153\n外部资源 .............................................................................................................. 154\n第11章 Spine类库 .....................................................155\n设置 ..................................................................................................................... 156\n类 ......................................................................................................................... 156\n实例化 .......................................................................................................... 156\n类扩展 .......................................................................................................... 157\n上下文 .......................................................................................................... 158\n事件 ..................................................................................................................... 159\n模型 ..................................................................................................................... 160\n获取记录 ...................................................................................................... 161\n模型事件 ...................................................................................................... 162\n校验 .............................................................................................................. 163\n持久化 .......................................................................................................... 163\n控制器 .................................................................................................................. 165\n代理 .............................................................................................................. 166\n元素 .............................................................................................................. 167\n委托事件 ...................................................................................................... 167\n控制器事件................................................................................................... 168\n全局事件 ...................................................................................................... 168\n渲染模式 ...................................................................................................... 169\n元素模式 ...................................................................................................... 169\n构建联系人管理应用 ........................................................................................... 171\n联系人模型................................................................................................... 172\n侧边栏控制器 ............................................................................................... 173\n联系人控制器 ............................................................................................... 175\n应用程序控制器 ........................................................................................... 178\n第12章 Backbone类库 ...............................................181\n模型 ..................................................................................................................... 182\n模型和属性................................................................................................... 182\n集合 ..................................................................................................................... 184\n控制集合的内部顺序 .................................................................................... 185\n视图 ..................................................................................................................... 185\n渲染视图 ...................................................................................................... 186\n委托事件 ...................................................................................................... 187\n绑定和上下文 ............................................................................................... 187\n控制器 .................................................................................................................. 188\n与服务器的同步 ................................................................................................... 190\n填充集合 ...................................................................................................... 192\n服务器端 ...................................................................................................... 192\n自定义行为................................................................................................... 193\n构建To-Do 列表应用 ........................................................................................... 195\n第13章 JavaScriptMVC类库 ......................................203\n设置 ..................................................................................................................... 204\nClass ..................................................................................................................... 204\n实例化 .......................................................................................................... 205\n调用基类的方法 ........................................................................................... 205\n代理 .............................................................................................................. 205\n静态继承 ...................................................................................................... 206\n自省 .............................................................................................................. 206\n一个模型的例子 ........................................................................................... 207\n模型 ..................................................................................................................... 207\n属性和可观察 ............................................................................................... 208\n扩展模型 ...................................................................................................... 210\nSetter ............................................................................................................ 210\nDefaults ........................................................................................................ 211\n辅助方法 ...................................................................................................... 211\n服务封装 ...................................................................................................... 212\n类型转换 ...................................................................................................... 215\nCRUD 事件 .................................................................................................. 216\n在视图中使用客户端模板 .................................................................................... 216\n基本用法 ...................................................................................................... 217\njQuery 修改器 .............................................................................................. 217\n用Script 标签加载 ....................................................................................... 217\n$.View 和子模板 .......................................................................................... 218\n延时对象 ...................................................................................................... 218\n打包、预加载和性能 .................................................................................... 219\n$.Controller ：jQuery 插件工厂 ............................................................................ 220\n概览 .............................................................................................................. 222\n控制器实例化 ............................................................................................... 222\n事件绑定 ...................................................................................................... 223\n模板动作 ...................................................................................................... 224\n大综合：一个抽象的CRUD 列表 ........................................................................ 225\n附录A jQuery基础 .....................................................227\n附录B CSS扩展 .........................................................239\n附录C CSS3参考 .......................................................245\n索引 ...........................................................................267",
+        "pages": "282",
+        "images": {
+            "small": "https://img1.doubanio.com\/view\/subject\/s\/public\/s27269298.jpg",
+            "large": "https://img1.doubanio.com\/view\/subject\/l\/public\/s27269298.jpg",
+            "medium": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27269298.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/10733304\/",
+        "id": "10733304",
+        "publisher": "电子工业出版社",
+        "isbn10": "7121109565",
+        "isbn13": "9787121109560",
+        "title": "基于MVC的JavaScript Web富应用开发",
+        "url": "https:\/\/api.douban.com\/v2\/book\/10733304",
+        "alt_title": "JavaScript Web Applications",
+        "author_intro": "作者简介\nAlex MacCaw是一名Ruby\/JavaScript程序员，在开源社区中很有名望，是Spine框架的作者，开发过Taskforce，Socialmod等大型开源项目，同时活跃在纽约、旧金山和柏林的各大Ruby\/Rails会议。",
+        "summary": "《JavaScript Web 富应用开发》Developing JavaScript Web Applications是 Alex MacCaw 的新作（由O'Reilly出版发行），本书系统而深入的讲解了如何使用最前沿的Web技术构建下一代互联网富应用程序。作者 Alex MacCaw 是一名Ruby\/JavaScript 程序员，在开源社区中很有名望，是Spine框架的作者，同时活跃在纽约、旧金山和柏林的各大 Ruby\/Rails 论坛。除了作为一名工程师，他还喜欢带着他的尼康D90和冲浪板环游世界。\n有赖于强大的JavaScript引擎以及CSS3和HTML5新技术，如今的JavaScript Web 富应用的用户体验已经可以和桌面系统相媲美。关键是如何平滑的将服务器端的复杂度移植到客户端，这并不容易做到。这本书将专注于讲述如何构建“优雅又不失高水准”（state of the art）的JavaScript应用，包括软件架构、模板引擎、框架和库、同服务器的消息通信等内容。\n通过由浅入深的讲解，你将学会如何构建具有丰富交互以及优雅体验的JavaScript应用，书中同样提供了大量的示例代码，可以帮助你更深入的理解很多重要的概念。\n揭开MVC的神秘面纱，教你如何设计合理的架构以及处理应用内部模块之间的依赖\n介绍模板引擎和数据绑定\n讲解远程数据加载、第二代Ajax以及跨域请求\n利用WebSockets和Node构建实时应用\n拖拽上传文件以及上传进度提示\n讲解主流的库和框架，包括jQuery、JavaScriptMVC以及Backbone\n编写测试用例，并使用控制台工具来调试你的应用\n部署应用的最佳实践，比如缓存机制和代码压缩等",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "59.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 364,
+            "average": "8.2",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "扎卡斯"
+        ],
+        "pubdate": "2013-4",
+        "tags": [
+            {
+                "count": 461,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 164,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 110,
+                "name": "Web开发",
+                "title": "Web开发"
+            },
+            {
+                "count": 101,
+                "name": "Web前端开发",
+                "title": "Web前端开发"
+            },
+            {
+                "count": 87,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 65,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 56,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 48,
+                "name": "计算机",
+                "title": "计算机"
+            }
+        ],
+        "origin_title": "Maintainable JavaScript",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s25808235.jpg",
+        "binding": "",
+        "translator": [
+            "李晶",
+            "郭凯",
+            "张散集"
+        ],
+        "catalog": "目录\n第一部分　编程风格\t1\n第1章　基本的格式化\t4\n1.1　缩进层级\t4\n1.2　语句结尾\t7\n1.3　行的长度\t8\n1.4　换行\t9\n1.5　空行\t10\n1.6　命名\t11\n1.6.1　变量和函数\t12\n1.6.2　常量\t13\n1.6.3　构造函数\t14\n1.7　直接量\t15\n1.7.1　字符串\t15\n1.7.2　数字\t16\n1.7.3　null\t17\n1.7.4　undefined\t18\n1.7.5　对象直接量\t19\n1.7.6　数组直接量\t20\n第2章　注释\t21\n2.1　单行注释\t21\n2.2　多行注释\t23\n2.3　使用注释\t24\n2.3.1　难于理解的代码\t25\n2.3.2　可能被误认为错误的代码\t26\n2.3.3　浏览器特性hack\t26\n2.4　文档注释\t27\n第3章　语句和表达式\t30\n3.1　花括号的对齐方式\t31\n3.2　块语句间隔\t32\n3.3　switch语句\t33\n3.3.1　缩进\t33\n3.3.2　case语句的“连续执行”\t35\n3.3.3　default\t36\n3.4　with语句\t37\n3.5　for循环\t37\n3.6　for-in循环\t39\n第4章　变量、函数和运算符\t41\n4.1　变量声明\t41\n4.2　函数声明\t44\n4.3　函数调用间隔\t45\n4.4　立即调用的函数\t46\n4.5　严格模式\t47\n4.6　相等\t49\n4.6.1　eval()\t51\n4.6.2　原始包装类型\t52\n第二部分　编程实践\t54\n第5章　UI层的松耦合\t55\n5.1　什么是松耦合\t56\n5.2　将JavaScript从CSS中抽离\t57\n5.3　将CSS从JavaScript中抽离\t58\n5.4　将JavaScript从HTML中抽离\t60\n5.5　将HTML从JavaScript中抽离\t62\n5.5.1　方法1：从服务器加载\t63\n5.5.2　方法2：简单客户端模板\t64\n5.5.3　方法3：复杂客户端模板\t67\n第6章　避免使用全局变量\t70\n6.1　全局变量带来的问题\t70\n6.1.1　命名冲突\t71\n6.1.2　代码的脆弱性\t71\n6.1.3　难以测试\t72\n6.2　意外的全局变量\t72\n避免意外的全局变量\t73\n6.3　单全局变量方式\t74\n6.3.1　命名空间\t76\n6.3.2　模块\t78\n6.4　零全局变量\t81\n第7章　事件处理\t83\n7.1　典型用法\t83\n7.2　规则1：隔离应用逻辑\t84\n7.3　规则2：不要分发事件对象\t85\n第8章　避免“空比较”\t88\n8.1　检测原始值\t88\n8.2　检测引用值\t90\n8.2.1　检测函数\t92\n8.2.2　检测数组\t94\n8.3　检测属性\t95\n第9章　将配置数据从代码中分离出来\t98\n9.1　什么是配置数据\t98\n9.2　抽离配置数据\t99\n9.3　保存配置数据\t100\n第10章　抛出自定义错误\t103\n10.1　错误的本质\t103\n10.2　在JavaScript中抛出错误\t104\n10.3　抛出错误的好处\t105\n10.4　何时抛出错误\t106\n10.5　try-catch语句\t107\n10.6　错误类型\t109\n第11章　不是你的对象不要动\t112\n11.1　什么是你的\t112\n11.2　原则\t113\n11.2.1　不覆盖方法\t113\n11.2.2　不新增方法\t114\n11.2.3　不删除方法\t116\n11.3　更好的途径\t117\n11.3.1　基于对象的继承\t118\n11.3.2　基于类型的继承\t119\n11.3.3　门面模式\t120\n11.4　关于Polyfill的注解\t121\n11.5　阻止修改\t122\n第12章　浏览器嗅探\t125\n12.1　User-Agent检测\t125\n12.2　特性检测\t127\n12.3　避免特性推断\t129\n12.4　避免浏览器推断\t130\n12.5　应当如何取舍\t134\n第三部分　自动化\t135\n第13章　文件和目录结构\t137\n13.1　最佳实践\t137\n13.2　基本结构\t138\n第14章　Ant\t143\n14.1　安装\t143\n14.2　配置文件\t143\n14.3　执行构建\t145\n14.4　目标操作的依赖\t145\n14.5　属性\t146\n14.6　Buildr项目\t148\n第15章　校验\t149\n15.1　查找文件\t149\n15.2　任务\t150\n15.3　增强的目标操作\t152\n15.4　其他方面的改进\t153\n15.5　Buildr任务\t154\n第16章　文件合并和加工\t156\n16.1　任务\t156\n16.2　行尾结束符\t157\n16.3　文件头和文件尾\t158\n16.4　加工文件\t159\n第17章　文件精简和压缩\t163\n17.1　文件精简\t163\n17.1.1　使用YUI Compressor精简代码\t165\n17.1.2　用Closure Compiler精简\t167\n17.1.3　使用UglifyJS精简\t169\n17.2　压缩\t170\n17.2.1　运行时压缩\t171\n17.2.2　构建时压缩\t171\n第18章　文档化\t175\n18.1　JSDoc Toolkit\t175\n18.2　YUI Doc\t177\n第19章　自动化测试\t180\n19.1　YUI Test Selenium引擎\t180\n19.1.1　配置一台Selenium服务器\t181\n19.1.2　配置YUI Test Selenium引擎\t181\n19.1.3　使用YUI Test Selenium引擎\t181\n19.1.4　Ant的配置写法\t183\n19.2　Yeti\t184\n19.3　PhantomJS\t186\n19.3.1　安装及使用\t186\n19.3.2　Ant的配置写法\t187\n19.4　JsTestDriver\t188\n19.4.1　安装及使用\t188\n19.4.2　Ant的配置写法\t189\n第20章　组装到一起\t191\n20.1　被忽略的细节\t191\n20.2　编制打包计划\t192\n20.2.1　开发版本的构建\t193\n20.2.2　集成版本的构建\t194\n20.2.3　发布版本的构建\t195\n20.3　使用CI系统\t196\n20.3.1　Jenkins\t196\n20.3.2　其他CI系统\t199\n附录A　JavaScript编码风格指南\t200\n附录B　JavaScript工具集\t223",
+        "pages": "226",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s25808235.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s25808235.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s25808235.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/21792530\/",
+        "id": "21792530",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115310084",
+        "isbn13": "9787115310088",
+        "title": "编写可维护的JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/21792530",
+        "alt_title": "Maintainable JavaScript",
+        "author_intro": "Nicholas C. Zakas是一名前端开发顾问、作者和演讲家。在Yahoo！供职超过5年时间，在这期间他曾是Yahoo！首页首席前端工程师和YUI库代码贡献者。他著有《JavaScript高级程序设计》、《Ajax高级程序设计》和《高性能JavaScript》等书籍。Zakas倡导了很多最佳实践，包括渐进增强、可访问性、性能、扩展性和可维护性等。他的博客地址是：http:\/\/www.nczonline.net\/。他的Twitter是：@slicknet。\n李晶，花名拔赤，淘宝前端工程师，具有多年前端开发经验，在团队协作、组件开发、移动Web App等方面有深入研究，曾经参与淘宝首页、KISSY等项目开发。他翻译过《JavaScript Web富应用开发》、《JavaScript权威指南（第六版）》、《What is Node?》等书籍，热爱分享，喜欢折腾。微博http:\/\/weibo.com\/jayli。\n郭凯，花名流火，淘宝前端工程师，喜欢登山，也喜欢夜深人静时一人静静地写代码，折腾过许多小站均未能持久，有In、Juicer等开源项目。钟爱JavaScript，也喜欢Python，自嘲所学杂而不精。博客http:\/\/benben.cc。\n张散集，花名一舟，淘宝前端工程师。他主要从事技术管理，负责淘宝网（北京）的新业务技术和前端团队，热爱前端新技术的推广与应用。翻译作品有《JavaScript Web富应用开发》和《JavaScript权威指南（第六版）》。",
+        "summary": "《编写可维护的JavaScript》向开发人员阐述了如何在团队开发中编写具备高可维护性的JavaScript代码，书中详细说明了作为团队一分子，应该怎么写JavaScript。《编写可维护的JavaScript》内容涵盖了编码风格、编程技巧、自动化、测试等几方面，既包括具体风格和原则的介绍，也包括示例和技巧说明，最后还介绍了如何通过自动化的工具和方法来实现一致的编程风格。\n《编写可维护的JavaScript》适合前端开发工程师、JavaScript程序员和学习JavaScript编程的读者阅读，也适合开发团队负责人、项目负责人阅读。",
+        "price": "55.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 278,
+            "average": "9.1",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "曾探"
+        ],
+        "pubdate": "2015-5",
+        "tags": [
+            {
+                "count": 423,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 270,
+                "name": "设计模式",
+                "title": "设计模式"
+            },
+            {
+                "count": 174,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 90,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 75,
+                "name": "Web前端",
+                "title": "Web前端"
+            },
+            {
+                "count": 68,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 59,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 56,
+                "name": "计算机",
+                "title": "计算机"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28065006.jpg",
+        "binding": "平装",
+        "translator": [],
+        "catalog": "第一部分　基础知识\n第1章　面向对象的JavaScript\n1.1 动态类型语言和鸭子类型　　2\n1.2 多态　　4\n1.3 封装　　12\n1.4 原型模式和基于原型继承的JavaScript对象系统　　14\n第2章　this、call和apply\n2.1 this　　24\n2.2 call和apply　　29\n第3章　闭包和高阶函数\n3.1 闭包 35\n3.2 高阶函数　　44\n3.3 小结　　58\n第二部分 设计模式\n第4章　单例模式\n4.1 实现单例模式　　60\n4.2 透明的单例模式　　61\n4.3 用代理实现单例模式　　62\n4.4 JavaScript中的单例模式　　63\n4.5 惰性单例　　65\n4.6 通用的惰性单例　　68\n4.7 小结　　70\n第5章　策略模式\n5.1 使用策略模式计算奖金　　72\n5.2 JavaScript 版本的策略模式　　75\n5.3 多态在策略模式中的体现　　76\n5.4 使用策略模式实现缓动动画　　76\n5.5 更广义的“算法”　　80\n5.6 表单校验　　80\n5.7 策略模式的优缺点　　86\n5.8 一等函数对象与策略模式　　86\n5.9 小结　　87\n第6章　代理模式\n6.1 第一个例子——小明追MM的故事　　88\n6.2 保护代理和虚拟代理　　91\n6.3 虚拟代理实现图片预加载　　91\n6.4 代理的意义　　93\n6.5 代理和本体接口的一致性　　94\n6.6 虚拟代理合并HTTP 请求　　95\n6.7 虚拟代理在惰性加载中的应用　　97\n6.8 缓存代理　　99\n6.9 用高阶函数动态创建代理　　100\n6.10 其他代理模式　　101\n6.11 小结　　102\n第7章　迭代器模式\n7.1 jQuery 中的迭代器　　103\n7.2 实现自己的迭代器　　104\n7.3 内部迭代器和外部迭代器　　104\n7.4 迭代类数组对象和字面量对象　　106\n7.5 倒序迭代器　　106\n7.6 中止迭代器　　107\n7.7 迭代器模式的应用举例　　107\n7.8 小结　　109\n第8章　发布—订阅模式\n8.1 现实中的发布—订阅模式　　110\n8.2 发布—订阅模式的作用　　110\n8.3 DOM 事件　　111\n8.4 自定义事件　　112\n8.5 发布—订阅模式的通用实现　　113\n8.6 取消订阅的事件　　115\n8.7 真实的例子——网站登录　　115\n8.8 全局的发布—订阅对象　　117\n8.9 模块间通信　　119\n8.10 必须先订阅再发布吗　　120\n8.11 全局事件的命名冲突　　121\n8.12 JavaScript实现发布—订阅模式的便利性　　124\n8.13 小结　　124\n第9章　命令模式\n9.1 命令模式的用途　　125\n9.2 命令模式的例子——菜单程序　　126\n9.3 JavaScript中的命令模式　　128\n9.4 撤销命令　　130\n9.5 撤消和重做　　132\n9.6 命令队列　　134\n9.7 宏命令　　134\n9.8 智能命令与傻瓜命令　　135\n9.9 小结　　136\n第10章　组合模式\n10.1 回顾宏命令　　138\n10.2 组合模式的用途　　139\n10.3 请求在树中传递的过程　　139\n10.4 更强大的宏命令　　140\n10.5 抽象类在组合模式中的作用　　143\n10.6 透明性带来的安全问题　　144\n10.7 组合模式的例子——扫描文件夹　　145\n10.8 一些值得注意的地方　　147\n10.9 引用父对象　　148\n10.10 何时使用组合模式　　150\n10.11 小结　　150\n第11章　模板方法模式\n11.1 模板方法模式的定义和组成　　151\n11.2 第一个例子——Coffee or Tea　　151\n11.3 抽象类　　156\n11.4 模板方法模式的使用场景　　159\n11.5 钩子方法　　160\n11.6 好莱坞原则　　162\n11.7 真的需要“继承”吗　　162\n11.8 小结　　164\n第12章　享元模式\n12.1 初识享元模式　　165\n12.2 内部状态与外部状态　　166\n12.3 享元模式的通用结构　　167\n12.4 文件上传的例子　　167\n12.5 享元模式的适用性　　173\n12.6 再谈内部状态和外部状态　　173\n12.7 对象池　　175\n12.8 小结　　178\n第13章　职责链模式\n13.1 现实中的职责链模式　　179\n13.2 实际开发中的职责链模式　　180\n13.3 用职责链模式重构代码　　181\n13.4 灵活可拆分的职责链节点　　183\n13.5 异步的职责链　　184\n13.6 职责链模式的优缺点　　185\n13.7 用AOP 实现职责链　　186\n13.8 用职责链模式获取文件上传对象　　187\n13.9 小结　　188\n第14章　中介者模式\n14.1 现实中的中介者　　190\n14.2 中介者模式的例子——泡泡堂游戏　　191\n14.3 中介者模式的例子——购买商品　　199\n14.4 小结　　207\n第15章　装饰者模式\n15.1 模拟传统面向对象语言的装饰者模式　　210\n15.2 装饰者也是包装器　　211\n15.3 回到JavaScript 的装饰者　　212\n15.4 装饰函数　　212\n15.5 用AOP 装饰函数　　214\n15.6 AOP 的应用实例　　216\n15.7 装饰者模式和代理模式　　222\n15.8 小结　　223\n第16章　状态模式\n16.1 初识状态模式　　224\n16.2 状态模式的定义　　230\n16.3 状态模式的通用结构　　230\n16.4 缺少抽象类的变通方式　　　231\n16.5 另一个状态模式示例——文件上传　　232\n16.6 状态模式的优缺点　　241\n16.7 状态模式中的性能优化点　　241\n16.8 状态模式和策略模式的关系　　241\n16.9 JavaScript版本的状态机　　242\n16.10 表驱动的有限状态机　　244\n16.11 实际项目中的其他状态机　　245\n16.12 小结　　245\n第17章　适配器模式\n17.1 现实中的适配器　　246\n17.2 适配器模式的应用　　247\n17.3 小结　　250\n第三部分 设计原则和编程技巧\n第18章　单一职责原则\n18.1 设计模式中的SRP原则　　252\n18.2 何时应该分离职责　　256\n18.3 违反SRP原则　　256\n18.4 SRP 原则的优缺点　　257\n第19章　最少知识原则\n19.1 减少对象之间的联系　　258\n19.2 设计模式中的LKP原则　　259\n19.3 封装在LKP 原则中的体现　　261\n第20章　开放-封闭原则\n20.1 扩展window.onload函数　　263\n20.2 开放和封闭　　264\n20.3 用对象的多态性消除条件分支　　265\n20.4 找出变化的地方　　266\n20.5 设计模式中的开放—封闭原则　　268\n20.6 开放—封闭原则的相对性　　270\n20.7 接受第一次愚弄　　270\n第21章　接口和面向接口编程\n21.1 回到Java的抽象类　　271\n21.2 interface　　276\n21.3 JavaScript 语言是否需要抽象类和interface　　275\n21.4 用鸭子类型进行接口检查　　277\n21.5 用TypeScript 编写基于interface的命令模式　　278\n第22章　代码重构\n22.1 提炼函数　　282\n22.2 合并重复的条件片段　　283\n22.3 把条件分支语句提炼成函数　　284\n22.4 合理使用循环　　285\n22.5 提前让函数退出代替嵌套条件分支　　285\n22.6 传递对象参数代替过长的参数列表　　286\n22.7 尽量减少参数数量　　287\n22.8 少用三目运算符　　288\n22.9 合理使用链式调用　　288\n22.10 分解大型类　　289\n22.11 用return退出多重循环　　290\n参考文献　　293",
+        "pages": "294",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s28065006.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s28065006.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28065006.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/26382780\/",
+        "id": "26382780",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115388881",
+        "isbn13": "9787115388889",
+        "title": "JavaScript设计模式与开发实践",
+        "url": "https:\/\/api.douban.com\/v2\/book\/26382780",
+        "alt_title": "",
+        "author_intro": "曾探\n2007年毕业于吉林大学软件学院。就职于国内知名前端团队腾讯AlloyTeam，高级工程师。\n曾参与Web QQ、QQ群、Q+开发者网站、微云、QQ兴趣部落等大型前端项目的开发。有过Java、Python和JavaScript的开发经验，业余作品有HTML5版街头霸王等。\n平时喜欢电影和音乐，业务时间也是一名健身教练。",
+        "summary": "本书在尊重《设计模式》原意的同时，针对JavaScript语言特性全面介绍了更适合JavaScript程序员的了16个常用的设计模式，讲解了JavaScript面向对象和函数式编程方面的基础知识，介绍了面向对象的设计原则及其在设计模式中的体现，还分享了面向对象编程技巧和日常开发中的代码重构。本书将教会你如何把经典的设计模式应用到JavaScript语言中，编写出优美高效、结构化和可维护的代码。",
+        "series": {
+            "id": "13000",
+            "title": "图灵原创"
+        },
+        "price": "59.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 81,
+            "average": "8.5",
+            "min": 0
+        },
+        "subtitle": "编写可扩展、可重用、高质量的JavaScript应用程序",
+        "author": [
+            "斯托扬"
+        ],
+        "pubdate": "2013-3",
+        "tags": [
+            {
+                "count": 168,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 68,
+                "name": "Web前端",
+                "title": "Web前端"
+            },
+            {
+                "count": 40,
+                "name": "面向对象",
+                "title": "面向对象"
+            },
+            {
+                "count": 39,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 33,
+                "name": "js",
+                "title": "js"
+            },
+            {
+                "count": 26,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 23,
+                "name": "OOP",
+                "title": "OOP"
+            },
+            {
+                "count": 19,
+                "name": "计算机",
+                "title": "计算机"
+            }
+        ],
+        "origin_title": "Object-Oriented JavaScript",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s26097721.jpg",
+        "binding": "",
+        "translator": [
+            "凌杰"
+        ],
+        "catalog": "第1章　引言\t1\n1.1　回顾历史\t1\n1.2　变革之风\t3\n1.3　分析现状\t3\n1.4　展望未来\t4\n1.5　面向对象程序设计\t5\n1.5.1　对象\t5\n1.5.2　类\t6\n1.5.3　封装\t6\n1.5.4　聚合\t7\n1.5.5　继承\t7\n1.5.6　多态\t8\n1.6　OOP概述\t8\n1.7　训练环境设置\t9\n1.8　使用Firebug控制台\t10\n1.9　本章小结\t11\n第2章　基本数据类型、数组、循环及条件表达式\t13\n2.1　变量\t13\n2.2　操作符\t15\n2.3　基本数据类型\t18\n2.3.1　查看类型操作符——typeof\t19\n2.3.2　数字\t19\n2.3.3　字符串\t23\n2.3.4　布尔值\t26\n2.3.5　Undefined与null\t32\n2.4　基本数据类型综述\t34\n2.5　数组\t35\n2.5.1　增加、更新数组元素\t36\n2.5.2　删除元素\t36\n2.5.3　数组的数组\t37\n2.6　条件与循环\t38\n2.6.1　代码块\t38\n2.6.2　循环\t44\n2.7　注释\t49\n2.8　本章小结\t49\n2.9　练习题\t50\n第3章　函数\t52\n3.1　什么是函数\t53\n3.1.1　调用函数\t53\n3.1.2　参数\t53\n3.2　预定义函数\t55\n3.2.1　parseInt()\t56\n3.2.2　parseFloat()\t57\n3.2.3　isNaN()\t58\n3.2.4　isFinite()\t58\n3.2.5　URI的编码与反编码\t59\n3.2.6　eval()\t59\n3.2.7　一点惊喜—alert()函数\t60\n3.3　变量的作用域\t60\n3.4　函数也是数据\t62\n3.4.1　匿名函数\t63\n3.4.2　回调函数\t64\n3.4.3　回调示例\t65\n3.4.4　自调函数\t66\n3.4.5　内部（私有）函数\t67\n3.4.6　返回函数的函数\t68\n3.4.7　能重写自己的函数\t68\n3.5　闭包\t70\n3.5.1　作用域链\t70\n3.5.2　词法作用域\t71\n3.5.3　利用闭包突破作用域链\t72\n3.5.4　Getter与Setter\t78\n3.5.5　迭代器\t79\n3.6　本章小结\t80\n3.7　练习题\t80\n第4章　对象\t82\n4.1　从数组到对象\t82\n4.1.1　元素、属性、方法\t84\n4.1.2　哈希表、关联型数组\t85\n4.1.3　访问对象的属性\t85\n4.1.4　调用对象的方法\t86\n4.1.5　修改属性与方法\t87\n4.1.6　使用this值\t88\n4.1.7　构造器函数\t88\n4.1.8　全局对象\t90\n4.1.9　构造器属性\t91\n4.1.10　instanceof操作符\t92\n4.1.11　返回对象的函数\t92\n4.1.12　传递对象\t93\n4.1.13　对象比较\t94\n4.1.14　Firebug控制台中的对象\t95\n4.2　内建对象\t96\n4.2.1　Object\t97\n4.2.2　Array\t98\n4.2.3　Function\t102\n4.2.4　Boolean\t107\n4.2.5　Number\t109\n4.2.6　String\t110\n4.2.7　Math\t115\n4.2.8　Date\t117\n4.2.9　RegExp\t121\n4.2.10　Error对象\t127\n4.3　本章小结\t131\n4.4　练习题\t132\n第5章　原型\t135\n5.1　原型属性\t135\n5.1.1　利用原型添加方法与属性\t136\n5.1.2　使用原型的方法与属性\t137\n5.1.3　自身属性与原型属性\t138\n5.1.4　利用自身属性重写原型属性\t139\n5.1.5　isPrototypeOf()方法\t143\n5.1.6　神秘的_proto_链接\t143\n5.2　扩展内建对象\t145\n5.2.1　关于扩展内建对象的讨论\t146\n5.2.2　一些原型陷阱\t147\n5.3　本章小结\t150\n5.4　练习题\t150\n第6章　继承\t152\n6.1　原型链\t152\n6.1.1　原型链示例\t153\n6.1.2　将共享属性迁移到原型中去\t156\n6.2　只继承于原型\t158\n6.3　uber—子对象访问父对象的方式\t161\n6.4　将继承部分封装成函数\t163\n6.5　属性拷贝\t163\n6.6　小心处理引用拷贝\t165\n6.7　对象之间的继承\t167\n6.8　深拷贝\t169\n6.9　object()\t171\n6.10　原型继承与属性拷贝的混合应用\t172\n6.11　多重继承\t173\n6.12　寄生式继承\t175\n6.13　构造器借用\t176\n6.14　本章小结\t179\n6.15　案例学习：图形绘制\t183\n6.15.1　分析\t183\n6.15.2　实现\t184\n6.15.3　测试\t188\n6.16　练习题\t189\n第7章　浏览器环境\t190\n7.1　在HTML页面中引入JavaScript代码\t190\n7.2　概述：BOM与DOM\t191\n7.3　BOM\t192\n7.3.1　window对象再探\t192\n7.3.2　window.navigator\t193\n7.3.3　Firebug的备忘功能\t193\n7.3.4　window.location\t194\n7.3.5　window.history\t195\n7.3.6　window.frames\t196\n7.3.7　window.screen\t197\n7.3.8　window.open()\/close()\t198\n7.3.9　window.moveTo()、window.resizeTo()\t199\n7.3.10　window.alert()、window.prompt()、window.confirm()\t199\n7.3.11　window.setTimeout()、window.setInterval()\t201\n7.3.12　window.document\t202\n7.4　DOM\t202\n7.4.1　Core DOM与HTML DOM\t204\n7.4.2　DOM节点的访问\t206\n7.4.3　DOM节点的修改\t215\n7.4.4　新建节点\t218\n7.4.5　移除节点\t221\n7.4.6　只适用于HTML的DOM对象\t223\n7.5　事件\t227\n7.5.1　内联HTML属性法\t227\n7.5.2　元素属性法\t227\n7.5.3　DOM的事件监听器\t228\n7.5.4　捕捉法与冒泡法\t229\n7.5.5　阻断传播\t231\n7.5.6　防止默认行为\t233\n7.5.7　跨浏览器事件监听器\t233\n7.5.8　事件类型\t235\n7.6　XMLHttpRequest对象\t236\n7.6.1　发送请求\t236\n7.6.2　处理响应\t237\n7.6.3　在早于7的IE版本中创建XMLHttpRequest对象\t238\n7.6.4　A代表异步\t239\n7.6.5　X代表XML\t240\n7.6.6　实例示范\t240\n7.7　本章小结\t242\n7.8　练习题\t244\n第8章　编程模式与设计模式\t247\n8.1　编程模式\t248\n8.1.1　行为隔离\t248\n8.1.2　命名空间\t250\n8.1.3　初始化分支\t253\n8.1.4　延迟定义\t254\n8.1.5　配置对象\t255\n8.1.6　私有属性和方法\t257\n8.1.7　特权函数\t258\n8.1.8　私有函数的公有化\t258\n8.1.9　自执行函数\t259\n8.1.10　链式调用\t260\n8.1.11　JSON\t261\n8.2　设计模式\t262\n8.2.1　单件模式1\t263\n8.2.2　单件模式2\t263\n8.2.3　工厂模式\t264\n8.2.4　装饰器模式\t266\n8.2.5　观察者模式\t269\n8.3　本章小结\t272\n附录A　保留字\t273\n附录B　内建函数\t276\n附录C　内建对象\t279\n附录D　正则表达式\t305",
+        "pages": "310",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s26097721.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s26097721.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s26097721.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/21372235\/",
+        "id": "21372235",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115309043",
+        "isbn13": "9787115309044",
+        "title": "JavaScript面向对象编程指南",
+        "url": "https:\/\/api.douban.com\/v2\/book\/21372235",
+        "alt_title": "Object-Oriented JavaScript",
+        "author_intro": "Stoyan Stefanov：雅虎公司的Web开发人员、Zend认证工程师。他经常会在其博客（www.phpied.com）与一些相关会议中就JavaScript、PHP等Web开发话题发表独到见解。他还独自运营着其他一些网站，其中包括JSPatterns.com—一个用于探讨JavaScript模式的网站。除此之外，Stoyan还是雅虎性能优化工具的项目领导人，同时参与了多个开源项目，例如Firebug和PEAR。\nStoyan是一位“世界公民”，出生并成长于保加利亚，但却是一个加拿大公民，现居住于美国加利福尼亚州的洛杉矶。在短暂的线下时间里，他喜欢弹吉他，与家人一起去圣莫尼卡海滩或待在游泳池边。",
+        "summary": "《JavaScript面向对象编程指南》内容包括：JavaScript作为一门浏览器语言的核心思想；面向对象编程的基础知识及其在JavaScript中的运用；数据类型、操作符以及流程控制语句；函数、闭包、对象和原型等概念，以代码重用为目的的继承模式；BOM、DOM、浏览器事件、AJAX和JSON；如何实现JavaScript中缺失的面向对象特性，如对象的私有成员与私有方法；如何应用适当的编程模式，发挥JavaScript语言特有的优势；如何应用设计模式解决常见问题等。\n《JavaScript面向对象编程指南》着重介绍JavaScript在面向对象方面的特性，展示如何构建强健的、可维护的、功能强大的应用程序及程序库。",
+        "price": "59.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 81,
+            "average": "7.6",
+            "min": 0
+        },
+        "subtitle": "JavaScript从前端到后端",
+        "author": [
+            "米可夫斯基 (Michael S. Mikowski)",
+            "鲍威尔 (Josh C. Powell)"
+        ],
+        "pubdate": "2014-9-1",
+        "tags": [
+            {
+                "count": 135,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 83,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 57,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 55,
+                "name": "SPA",
+                "title": "SPA"
+            },
+            {
+                "count": 37,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 27,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 24,
+                "name": "JS",
+                "title": "JS"
+            },
+            {
+                "count": 16,
+                "name": "编程",
+                "title": "编程"
+            }
+        ],
+        "origin_title": "Single Page Web Applications",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28011613.jpg",
+        "binding": "平装",
+        "translator": [
+            "包勇明"
+        ],
+        "catalog": "第一部分　单页应用简介\n第1章　第一个单页应用　3\n1．1　定义、一些历史和一些关注点　4\n1．1．1　一些历史　4\n1．1．2　是什么导致JavaScript单页应用姗姗来迟　5\n1．1．3　我们的关注点　8\n1．2　构建第一个单页应用　9\n1．2．1　定义目标　9\n1．2．2　创建文件结构　10\n1．2．3　使用Chrome开发者工具　10\n1．2．4　开发HTML和CSS　11\n1．2．5　添加JavaScript　12\n1．2．6　使用Chrome开发者工具查看应用　17\n1．3　精心编写的单页应用的用户效益　19\n1．4　小结　20\n第2章　温故JavaScript　22\n2．1　变量作用域　24\n2．2　变量提升　27\n2．3　高级变量提升和执行环境对象　28\n2．3．1　提升　28\n2．3．2　执行环境和执行环境对象　30\n2．4　作用域链　33\n2．5　JavaScript对象和原型链　35\n2．6　函数——更深入的窥探　43\n2．6．1　函数和匿名函数　43\n2．6．2　自执行匿名函数　44\n2．6．3　模块模式——将私有变量引入JavaScript　46\n2．6．4　闭包　51\n2．7　小结　54\n第二部分　单页应用客户端\n第3章　开发Shell　57\n3．1　深刻理解Shell　57\n3．2　创建文件和名字空间　59\n3．2．1　创建文件结构　59\n3．2．2　编写应用的HTML文件　60\n3．2．3　创建CSS根名字空间　61\n3．2．4　创建JavaScript根名字空间　62\n3．3　创建功能容器　64\n3．3．1　选取策略　64\n3．3．2　编写Shell的HTML　64\n3．3．3　编写Shell的CSS　65\n3．4　渲染功能容器　68\n3．4．1　将HTML转换为JavaScript　68\n3．4．2　在JavaScript中添加HTML模板　69\n3．4．3　编写Shell的样式表　71\n3．4．4　指示应用使用Shell　73\n3．5　管理功能容器　74\n3．5．1　编写展开或收起聊天滑块的方法　74\n3．5．2　给聊天滑块添加点击事件处理程序　76\n3．6　管理应用状态　80\n3．6．1　理解浏览器用户所期望的行为　80\n3．6．2　选取一个策略来管理历史控件　81\n3．6．3　当发生历史事件时，更改锚　82\n3．6．4　使用锚来驱动应用状态　83\n3．7　小结　89\n第4章　添加功能模块　90\n4．1　功能模块策略　91\n4．1．1　与第三方模块的比较　91\n4．1．2　功能模块和分形MVC模式　93\n4．2　创建功能模块文件　96\n4．2．1　规划文件结构　96\n4．2．2　填写文件　97\n4．2．3　我们创建了什么　103\n4．3　设计方法API　103\n4．3．1　锚接口模式　104\n4．3．2　Chat的配置API　105\n4．3．3　Chat的初始化API　106\n4．3．4　Chat的setSliderPosition API　107\n4．3．5　配置和初始化的级联　107\n4．4　实现功能API　109\n4．4．1　样式表　110\n4．4．2　修改Chat　114\n4．4．3　清理Shell　120\n4．4．4　详细解释执行的过程　125\n4．5　添加经常使用的方法　127\n4．5．1　removeSlider方法　127\n4．5．2　handleResize方法　129\n4．6　小结　133\n第5章　构建Model　134\n5．1　理解Model　135\n5．1．1　我们将要构建什么　135\n5．1．2　Model做什么　137\n5．1．3　Model不做什么　137\n5．2　创建Model和其他文件　138\n5．2．1　规划文件结构　138\n5．2．2　填充文件　139\n5．2．3　使用统一的触摸——鼠标库　145\n5．3　设计people对象　145\n5．3．1　设计person对象　146\n5．3．2　设计people对象的API　147\n5．3．3　给people对象的API编写文档　150\n5．4　构建people对象　151\n5．4．1　创建伪造的人员列表　152\n5．4．2　开始构建people对象　154\n5．4．3　完成people对象的构建　157\n5．4．4　测试people对象的API　164\n5．5　在Shell中开启登入和登出的功能　166\n5．5．1　设计用户登入的体验　167\n5．5．2　更新Shell的JavaScript　167\n5．5．3　更新Shell的样式表　169\n5．5．4　使用UI测试登入和登出　170\n5．6　小结　171\n第6章　完成Model和Data模块　172\n6．1　设计chat对象　172\n6．1．1　设计方法和事件　173\n6．1．2　给chat对象的API添加文档　175\n6．2　构建chat对象　177\n6．2．1　先创建chat对象的join方法　177\n6．2．2　更新Fake以响应chat．join　179\n6．2．3　测试chat．join方法　181\n6．2．4　给chat对象添加消息传输功能　182\n6．2．5　更新Fake，模拟消息传输功能　187\n6．2．6　测试chat的消息传输功能　189\n6．3　给Model添加Avatar功能　190\n6．3．1　给chat对象添加Avatar功能　190\n6．3．2　修改Fake来模拟头像功能　191\n6．3．3　测试头像功能　192\n6．3．4　测试驱动开发　193\n6．4　完成Chat功能模块　195\n6．4．1　更新Chat的JavaScript　196\n6．4．2　更新样式表　203\n6．4．3　测试Chat UI　207\n6．5　创建Avatar功能模块　208\n6．5．1　创建Avatar的JavaScript　209\n6．5．2　创建Avatar的样式表　213\n6．5．3　更新Shell和浏览文档　214\n6．5．4　测试Avatar功能模块　215\n6．6　数据绑定和jQuery　216\n6．7　创建Data模块　217\n6．8　小结　220\n第三部分　单页应用服务器\n第7章　Web服务器　223\n7．1　服务器的作用　223\n7．1．1　认证和授权　224\n7．1．2　验证　224\n7．1．3　数据的保存和同步　225\n7．2　Node．js　225\n7．2．1　为什么选择Node．js　225\n7．2．2　使用Node．js创建‘Hello World’应用　226\n7．2．3　安装并使用Connect　229\n7．2．4　添加Connect中间件　230\n7．2．5　安装并使用Express　231\n7．2．6　添加Express中间件　234\n7．2．7　Express的使用环境　235\n7．2．8　Express的静态文件服务　236\n7．3　高级路由　237\n7．3．1　用户对象的CRUD路由　237\n7．3．2　通用CRUD路由　243\n7．3．3　把路由放到单独的Node．js模块里面　246\n7．4　添加认证和授权　249\n7．5　Web socket和Socket．IO　251\n7．5．1　简单的Socket．IO应用程序　251\n7．5．2　Socket．IO和消息服务器　254\n7．5．3　使用Socket．IO更新JavaScript　255\n7．6　小结　258\n第8章　服务器数据库　259\n8．1　数据库的作用　259\n8．1．1　选择数据存储　260\n8．1．2　消除数据转换　260\n8．1．3　把逻辑放在需要的地方　261\n8．2　MongoDB简介　262\n8．2．1　面向文档的存储　262\n8．2．2　动态文档结构　262\n8．2．3　开始使用MongoDB　263\n8．3　使用MongoDB驱动程序　264\n8．3．1　准备项目文件　265\n8．3．2　安装并连接MongoDB　265\n8．3．3　使用MongoDB的CRUD方法　267\n8．3．4　向服务器应用添加CRUD操作　270\n8．4　验证客户端数据　274\n8．4．1　验证对象类型　274\n8．4．2　验证对象　276\n8．5　创建单独的CRUD模块　283\n8．5．1　组织文件结构　284\n8．5．2　把CRUD移到它自己的模块里面　287\n8．6　构建chat模块　292\n8．6．1　开始创建chat模块　293\n8．6．2　创建adduser消息处理程序　295\n8．6．3　创建updatechat消息处理程序　299\n8．6．4　创建disconnect消息处理程序　301\n8．6．5　创建updateavatar消息处理程序　302\n8．7　小结　305\n第9章　单页应用发布准备　306\n9．1　单页应用针对搜索引擎的优化　307\n9．2　云和第三方服务　310\n9．2．1　站点分析　310\n9．2．2　记录客户端错误　312\n9．2．3　内容分发网络　314\n9．3　缓存和缓存破坏　314\n9．3．1　缓存时机　315\n9．3．2　Web存储　316\n9．3．3　HTTP缓存　317\n9．3．4　服务器缓存　320\n9．3．5　数据库查询缓存　325\n9．4　小结　326\n附录A　JavaScript编码标准　328\n附录B　测试单页应用　361",
+        "pages": "388",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s28011613.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s28011613.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s28011613.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/25986284\/",
+        "id": "25986284",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115363625",
+        "isbn13": "9787115363626",
+        "title": "单页Web应用",
+        "url": "https:\/\/api.douban.com\/v2\/book\/25986284",
+        "alt_title": "Single Page Web Applications",
+        "author_intro": "本书作者是架构师和工程管理者。Michael Mikowski已经开发过许多商业级单页Web应用，其中有个平台每年要处理的请求超过1000亿次。Josh Powell搭建过一些流量非常大的网站。",
+        "summary": "《单页Web应用：JavaScript从前端到后端》是设计和构建大规模JavaScript单页Web应用(SPA)的宝贵指南，这些应用从前端到后端都使用JavaScript：浏览器端应用、Web服务器和数据库。\n《单页Web应用：JavaScript从前端到后端》大约三分之二的内容专门讲解单页Web应用的客户端开发，先定义何为JavaScript单页应用，接着介绍书中使用的单页Web应用的架构，然后依次讲解Shell模块、功能模块、Model模块、Data模块和Fake模块等，其中还专门拿出一整章讲解开发单页Web应用时需要掌握的JavaScript概念和特性；剩下三分之一的内容讲解单页Web应用的服务器端开发和其他与单页Web应用相关的知识，如Node.js、MongoDB、CDN、搜索引擎优化、数据分析、错误日志以及各个层级的缓存等。本书最后的两个附录分别介绍JavaScript的编码规范和单页Web应用的测试。\n《单页Web应用：JavaScript从前端到后端》适合Web开发人员、架构师和产品经理阅读，需要读者至少要有些JavaScript、HTML和CSS的开发经验。\n专业书评：\n“对好几代单页Web应用优化后的深刻见解。”\n——摘自Gregory D. Benson撰写的序\n“彻底、全面、系统。”\n——Mark Ryall，ThoughtWorks公司\n“即使你使用了框架，也有必要读一下这本书。”\n——Ken Rimple，《Spring Roo in Action》作者\n“我强烈推荐本书所展示的技术。”\n——Jason Kaczor，SharePoint MVP\n“非常棒的指南。”\n——Mike Greenhalgh，NHS Wales",
+        "price": "CNY 69.00"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 107,
+            "average": "8.4",
+            "min": 0
+        },
+        "subtitle": "编写高质量JavaScript代码的68个有效方法",
+        "author": [
+            "赫尔曼 (David Herman)"
+        ],
+        "pubdate": "2014-1-1",
+        "tags": [
+            {
+                "count": 184,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 49,
+                "name": "前端",
+                "title": "前端"
+            },
+            {
+                "count": 32,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 31,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 30,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 23,
+                "name": "Web开发",
+                "title": "Web开发"
+            },
+            {
+                "count": 17,
+                "name": "Web",
+                "title": "Web"
+            },
+            {
+                "count": 15,
+                "name": "programming",
+                "title": "programming"
+            }
+        ],
+        "origin_title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+        "image": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27553548.jpg",
+        "binding": "平装",
+        "translator": [
+            "黄博文",
+            "喻杨"
+        ],
+        "catalog": "本书赞誉\n译者序\n序\n前言\n第1章　让自己习惯JavaScript 1\n第1条：了解你使用的JavaScript版本 1\n第2条：理解JavaScript的浮点数 6\n第3条：当心隐式的强制转换 8\n第4条：原始类型优于封装对象 13\n第5条：避免对混合类型使用==运算符 14\n第6条：了解分号插入的局限 16\n第7条：视字符串为16位的代码单元序列 21\n第2章　变量作用域 25\n第8条：尽量少用全局对象 25\n第9条：始终声明局部变量 27\n第10条：避免使用with 28\n第11条：熟练掌握闭包 31\n第12条：理解变量声明提升 34\n第13条：使用立即调用的函数表达式创建局部作用域 36\n第14条：当心命名函数表达式笨拙的作用域 38\n第15条：当心局部块函数声明笨拙的作用域 41\n第16条：避免使用eval创建局部变量 43\n第17条：间接调用eval函数优于直接调用 44\n第3章　使用函数 46\n第18条：理解函数调用、方法调用及构造函数调用之间的不同 46\n第19条：熟练掌握高阶函数 48\n第20条：使用call方法自定义接收者来调用方法 51\n第21条：使用apply方法通过不同数量的参数调用函数 53\n第22条：使用arguments创建可变参数的函数 54\n第23条：永远不要修改arguments对象 56\n第24条：使用变量保存arguments的引用 58\n第25条：使用bind方法提取具有确定接收者的方法 59\n第26条：使用bind方法实现函数柯里化 61\n第27条：使用闭包而不是字符串来封装代码 62\n第28条：不要信赖函数对象的toString方法 63\n第29条：避免使用非标准的栈检查属性 65\n第4章　对象和原型 67\n第30条：理解prototype、getPrototype Of和__proto__之间的不同 67\n第31条：使用Object.getPrototypeOf函数而不要使用__proto__属性 69\n第32条：始终不要修改__proto__属性 70\n第33条：使构造函数与new操作符无关 71\n第34条：在原型中存储方法 73\n第35条：使用闭包存储私有数据 75\n第36条：只将实例状态存储在实例对象中 76\n第37条：认识到this变量的隐式绑定问题 78\n第38条：在子类的构造函数中调用父类的构造函数 81\n第39条：不要重用父类的属性名 84\n第40条：避免继承标准类 86\n第41条：将原型视为实现细节 88\n第42条：避免使用轻率的猴子补丁 88\n第5章　数组和字典 91\n第43条：使用Object的直接实例构造轻量级的字典 91\n第44条：使用null原型以防止原型污染 94\n第45条：使用hasOwnProperty方法以避免原型污染 95\n第46条：使用数组而不要使用字典来存储有序集合 99\n第47条：绝不要在Object.prototype中增加可枚举的属性 102\n第48条：?避免在枚举期间修改对象 103\n第49条：数组迭代要优先使用for循环而不是for...in循环 108\n第50条：迭代方法优于循环 109\n第51条：在类数组对象上复用通用的数组方法 113\n第52条：数组字面量优于数组构造函数 114\n第6章　库和API设计 116\n第53条：保持一致的约定 116\n第54条：将undefined看做“没有值” 117\n第55条：接收关键字参数的选项对象 121\n第56条：避免不必要的状态 125\n第57条：使用结构类型设计灵活的接口 127\n第58条：区分数组对象和类数组对象 130\n第59条：避免过度的强制转换 134\n第60条：支持方法链 137\n第7章　并发 140\n第61条：不要阻塞I\/O事件队列 140\n第62条：在异步序列中使用嵌套或命名的回调函数 143\n第63条：当心丢弃错误 147\n第64条：对异步循环使用递归 150\n第65条：不要在计算时阻塞事件队列 153\n第66条：使用计数器来执行并行操作 156\n第67条：绝不要同步地调用异步的回调函数 160\n第68条：使用promise模式清洁异步逻辑 162",
+        "pages": "164",
+        "images": {
+            "small": "https://img1.doubanio.com\/view\/subject\/s\/public\/s27553548.jpg",
+            "large": "https://img1.doubanio.com\/view\/subject\/l\/public\/s27553548.jpg",
+            "medium": "https://img1.doubanio.com\/view\/subject\/m\/public\/s27553548.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/25786138\/",
+        "id": "25786138",
+        "publisher": "机械工业出版社",
+        "isbn10": "7111446232",
+        "isbn13": "9787111446231",
+        "title": "Effective JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/25786138",
+        "alt_title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+        "author_intro": "David Herman，资深 JavaScript 技术专家，Ecma TC39 委员会成员，负责JavaScript 的标准化工作。他拥有格林内尔学院的计算机科学学士学位和美国东北大学的计算机科学硕士及博士学位，现在 Mozilla 研究院担任高级研究员。",
+        "summary": "Effective 系列丛书经典著作，亚马逊五星级畅销书，Ecma 的JavaScript 标准化委员会著名专家撰写，JavaScript 语言之父、Mozilla CTO —— Brendan Eich 作序鼎力推荐！作者凭借多年标准化委员会工作和实践经验，深刻辨析JavaScript 的内部运作机制、特性、陷阱和编程最佳实践，将它们高度浓缩为极具实践指导意义的 68 条精华建议。\n本书共分为 7 章，分别涵盖 JavaScript 的不同主题。第 1 章主要讲述最基本的主题，如版本、类型转换要点、运算符注意事项和分号局限等。第 2 章主要讲解变量作用域，介绍此方面的一些基本概念，以及一些最佳实践经验。第 3 章主要讲解函数的使用，深刻解析函数、方法和类，并教会读者在不同的环境下高效使用函数。第 4 章主要讲解原型和对象，分析 JavaScript 的继承机制以及原型和对象使用的最佳实践和原则。第 5 章主要介绍数组和字典，阐述将对象作为集合的用法以及使用数组和字典的一些陷阱。第 6 章介绍库和 API，讲解如何设计良好的 API 的技巧，以清楚、简洁和明确地表达程序，并提高可重用率。第 7 章讲解并发，在技术上讨论一些“约定成俗”的 JavaScript 用法。",
+        "series": {
+            "id": "34529",
+            "title": "Effective系列丛书"
+        },
+        "price": "CNY 49.00"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 766,
+            "average": "8.6",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "David Flanagan"
+        ],
+        "pubdate": "2003-1-1",
+        "tags": [
+            {
+                "count": 756,
+                "name": "javascript",
+                "title": "javascript"
+            },
+            {
+                "count": 177,
+                "name": "JavaScript权威指南(第4版)",
+                "title": "JavaScript权威指南(第4版)"
+            },
+            {
+                "count": 151,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 141,
+                "name": "O'Reilly",
+                "title": "O'Reilly"
+            },
+            {
+                "count": 132,
+                "name": "WEB开发",
+                "title": "WEB开发"
+            },
+            {
+                "count": 102,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 98,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 86,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s1504052.jpg",
+        "binding": "平装(无盘)",
+        "translator": [
+            "张铭泽",
+            "等"
+        ],
+        "catalog": "前言\n第一章 JavaScript概述\n第一部分 JavaScript的核心\n第二章 词法结构\n第三章 数据类型和值\n第四章 变量\n第五章 表达式和运算符\n……\n第二部分 客户JavaScript\n第十二章 Web浏览器中的JavaScript\n第十三章 窗口和框架\n第十四章 Document对象\n第十五章 表单和表单元素\n第十六章 脚本化cookie\n……\n第三部分 JavaScript核心参考手册\nJavaScript核心参考手册\n第四部分 客户端JavaScript参考手册\n客户端JavaScript参考手册\n第五部分 W3C DOM 参考手册\nW3C DOM 参考手册\n第六部分 类、属性、方法和事件处理程序索引\n类、属性、方法和事件处理程序索引\n词汇表",
+        "pages": "1015",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s1504052.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s1504052.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s1504052.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/1232061\/",
+        "id": "1232061",
+        "publisher": "机械工业出版社",
+        "isbn10": "7111110919",
+        "isbn13": "9787111110910",
+        "title": "JAVASCRIPT权威指南(第四版)",
+        "url": "https:\/\/api.douban.com\/v2\/book\/1232061",
+        "alt_title": "JavaScript:The Definitive Guide",
+        "author_intro": "",
+        "summary": "《JavaScript权威指南》全面介绍了JavaScript语言的核心，以及Web浏览器中实现的遗留和标准的DOM。它运用了一些复杂的例子，说明如何处理验证表单数据、使用cookie、创建可移植的DHTML动画等常见任务。本书还包括详细的参考手册，涵盖了JavaScript的核心API、遗留的客户端API和W3C标准DOM API，记述了这些API中的每一个JavaScript对象、方法、性质、构造函数、常量和事件处理程序。",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "99.00"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 410,
+            "average": "8.6",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "John Resig"
+        ],
+        "pubdate": "2008-4-1",
+        "tags": [
+            {
+                "count": 566,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 95,
+                "name": "前端开发",
+                "title": "前端开发"
+            },
+            {
+                "count": 95,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 72,
+                "name": "编程",
+                "title": "编程"
+            },
+            {
+                "count": 66,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 44,
+                "name": "js",
+                "title": "js"
+            },
+            {
+                "count": 41,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 36,
+                "name": "programming",
+                "title": "programming"
+            }
+        ],
+        "origin_title": "Pro JavaScript Techniques",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s25000520.jpg",
+        "binding": "平装",
+        "translator": [
+            "江疆",
+            "陈贤安"
+        ],
+        "catalog": "第一部分　认识现代javascript\n第1章　现代javascript程序设计　2\n1.1　面向对象的javascript　2\n1.2　测试代码　3\n1.3　打包分发　4\n1.4　分离式dom脚本编程　5\n1.4.1　dom　6\n1.4.2　事件　7\n1.4.3　javascript与css　8\n1.5　ajax　8\n1.6　浏览器支持　11\n1.7　小结　12\n第二部分　专业javascript开发\n第2章　面向对象的javascript　14\n2.1　语言特性　14\n2.1.1　引用　14\n2.1.2　函数重载和类型检查　16\n.2.1.3　作用域　19\n2.1.4　闭包　20\n2.1.5　上下文对象　23\n2.2　面向对象基础　24\n2.2.1　对象　25\n2.2.2　对象的创建　25\n2.3　小结　30\n第3章　创建可重用代码　31\n3.1　标准化面向对象的代码　31\n3.1.1　原型式继承　31\n3.1.2　类式继承　32\n3.1.3　base库　35\n3.1.4　prototype库　36\n3.2　打包　39\n3.2.1　命名空间　40\n3.2.2　清理代码　42\n3.2.3　压缩　43\n3.3　分发　45\n3.4　小结　47\n第4章　调试与测试的工具　48\n4.1　调试　48\n4.1.1　错误控制台　48\n4.1.2　dom查看器　52\n4.1.3　firebug　54\n4.1.4　venkman　55\n4.2　测试　56\n4.2.1　jsunit　56\n4.2.2　j3unit　57\n4.2.3　test.simple　58\n4.3　小结　59\n第三部分　分离式javascript\n第5章　dom　62\n5.1　dom简介　62\n5.2　遍历dom　62\n5.2.1　处理dom中的空格　64\n5.2.2　简单的dom遍历　66\n5.2.3　绑定到每一个html元素　67\n5.2.4　标准的dom方法　68\n5.3　等待html dom的加载　69\n5.3.1　等待整个页面的加载　70\n5.3.2　等待大部分dom的加载　70\n5.3.3　判断dom何时加载完毕　71\n5.4　在html文档中查找元素　73\n5.4.1　通过类的值查找元素　73\n5.4.2　使用css选择器查找元素　74\n5.4.3　xpath　76\n5.5　获取元素的内容　77\n5.5.1　获取元素内的文本　77\n5.5.2　获取元素内的html　78\n5.6　操作元素特性　79\n5.7　修改dom　82\n5.7.1　使用dom创建节点　83\n5.7.2　插入到dom中　83\n5.7.3　注入html到dom　85\n5.7.4　删除dom节点　87\n5.8　小结　88\n第6章　事件　89\n6.1　javascript事件简介　89\n6.1.1　异步事件与线程　89\n6.1.2　事件阶段　91\n6.2　常见事件特性　93\n6.2.1　事件对象　93\n6.2.2　this关键字　93\n6.2.3　取消事件冒泡　94\n6.2.4　重载浏览器的默认行为　95\n6.3　绑定事件监听函数　97\n6.3.1　传统绑定　98\n6.3.2　dom绑定：w3c　99\n6.3.3　dom绑定：ie　100\n6.3.4　addevent和removeevent　100\n6.4　事件类型　103\n6.5　分离式脚本编程　103\n6.5.1　javascript禁用的未雨绸缪　104\n6.5.2　确保链接不依赖于javascript　104\n6.5.3　监听css何时禁用　105\n6.5.4　事件的亲和力　105\n6.6　小结　106\n第7章　javascript与css　107\n7.1　访问样式信息　107\n7.2　动态元素　109\n7.2.1　元素的位置　109\n7.2.2　元素的尺寸　115\n7.2.3　元素的可见性　117\n7.3　动画　119\n7.3.1　滑动　119\n7.3.2　渐显　119\n7.4　浏览器　120\n7.4.1　鼠标位置　120\n7.4.2　视口　121\n7.5　拖放　123\n7.6　库　128\n7.6.1　moo.fx和jquery　128\n7.6.2　scriptaculous　129\n7.7　小结　131\n第8章　改进表单　132\n8.1　表单验证　132\n8.1.1　必填字段　134\n8.1.2　模式匹配　136\n8.1.3　规则集合　138\n8.2　显示错误信息　139\n8.2.1　验证　140\n8.2.2　何时验证　142\n8.3　可用性的提升　144\n8.3.1　悬停的说明　144\n8.3.2　标记必填字段　146\n8.4　小结　147\n第9章　制作图库　148\n9.1　图库示例　148\n9.1.1　lightbox　148\n9.1.2　thickbox　150\n9.2　制作图库　151\n9.2.1　分离加载　154\n9.2.2　半透明的覆盖层　155\n9.2.3　定位盒子　157\n9.2.4　导航　160\n9.2.5　幻灯片　162\n9.3　小结　165\n第四部分　ajax\n第10章　ajax导引　168\n10.1　使用ajax　168\n10.1.1　http请求　169\n10.1.2　http响应　173\n10.2　处理响应数据　176\n10.3　完整的ajax程序包　177\n10.4　数据的不同用途　179\n10.4.1　基于xml的rss feed　179\n10.4.2　html注入器　181\n10.4.3　json与javascript：远程执行　182\n10.5　小结　182\n第11章　用ajax改进blog　183\n11.1　永不终止的blog　183\n11.1.1　blog的模板　183\n11.1.2　数据源　186\n11.1.3　事件检测　187\n11.1.4　请求　188\n11.1.5　结果　188\n11.2　实时网志　191\n11.3　小结　193\n第12章　自动补全的搜索　194\n12.1　自动补全搜索的例子　194\n12.2　制作页面　195\n12.3　监听键盘输入　197\n12.4　抓取结果　200\n12.5　导航结果列表　202\n12.5.1　键盘导航　202\n12.5.2　鼠标导航　203\n12.6　最终成果　203\n12.7　小结　208\n第13章　ajax wiki　209\n13.1　wiki是什么　209\n13.2　对话数据库　209\n13.3　ajax请求　211\n13.4　服务器端代码　212\n13.4.1　处理请求　212\n13.4.2　执行和格式化sql　213\n13.5　处理json响应　215\n13.6　附加的案例研究：javascript blog　216\n13.7　应用程序的代码　217\n13.7.1　核心javascript代码　218\n13.7.2　javascript sql库　221\n13.7.3　ruby服务器端代码　221\n13.8　小结　224\n第五部分　javascript的未来\n第14章　javascript路在何方　226\n14.1　javascript 1.6与1.7　226\n14.1.1　javascript 1.6　226\n14.1.2　javascript 1.7　229\n14.2　web applications 1.0　231\n14.2.1　制作时钟　232\n14.2.2　简单行星模拟　235\n14.3　comet　238\n14.4　小结　240\n第六部分　附录\n附录a　dom参考手册　242\n附录b　事件参考手册　257\n附录c　浏览器　273",
+        "pages": "289",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s25000520.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s25000520.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s25000520.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/3007076\/",
+        "id": "3007076",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115175403",
+        "isbn13": "9787115175403",
+        "title": "精通JavaScript",
+        "url": "https:\/\/api.douban.com\/v2\/book\/3007076",
+        "alt_title": "Pro JavaScript Techniques",
+        "author_intro": "",
+        "summary": "本书是目前最深入的 JavaScript 图书，讲述了现代 JavaScript 的所有知识，展现了这门技术将能给网站建设带来如何丰富的体验。本书言简意赅，扩展了读者视野，并关注于基础且重要的主题——现代 JavaScript 是什么和不是什么，浏览器支持的当前状态，以及需要注意的陷阱等。书中所有概念都来自于现实案例的分析。\n本书适合各层次 Web 开发人员阅读。\n勘误 http:\/\/realazy.org\/jspro\/erratra",
+        "series": {
+            "id": "660",
+            "title": "图灵程序设计丛书"
+        },
+        "price": "49.00元"
+    },
+    {
+        "rating": {
+            "max": 10,
+            "numRaters": 713,
+            "average": "8.9",
+            "min": 0
+        },
+        "subtitle": "",
+        "author": [
+            "弗拉纳根"
+        ],
+        "pubdate": "2007-8",
+        "tags": [
+            {
+                "count": 977,
+                "name": "JavaScript",
+                "title": "JavaScript"
+            },
+            {
+                "count": 312,
+                "name": "web开发",
+                "title": "web开发"
+            },
+            {
+                "count": 191,
+                "name": "JavaScript权威指南(第五版)",
+                "title": "JavaScript权威指南(第五版)"
+            },
+            {
+                "count": 160,
+                "name": "O'Reilly",
+                "title": "O'Reilly"
+            },
+            {
+                "count": 120,
+                "name": "计算机",
+                "title": "计算机"
+            },
+            {
+                "count": 104,
+                "name": "web",
+                "title": "web"
+            },
+            {
+                "count": 84,
+                "name": "网页设计",
+                "title": "网页设计"
+            },
+            {
+                "count": 72,
+                "name": "Ajax",
+                "title": "Ajax"
+            }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com\/view\/subject\/m\/public\/s5860151.jpg",
+        "binding": "",
+        "translator": [
+            "李强"
+        ],
+        "catalog": "前言\n第1章  JavaScript概述\n第一部分  核心JavaScript\n第2章  词法结构\n第3章  数据类型和值\n第4章  变量\n第5章  表达式和运算符\n第6章  语句\n第7章  对象和数组\n第8章  函数\n第9章  类、构造函数和原型\n第10章  模块和名字空间\n第11章  使用正则表达式的模式匹配\n第12章  脚本化Java\n第二部分  客户端JavaScript\n第13章  Web浏览器中的JavaScript\n第14章  脚本化浏览器窗口\n第15章  脚本化文档\n第16章  层叠样式表和动态HTML\n第17章  事件和事件处理\n第18章  表单和表单元素\n第19章  cookie和客户端持久性\n第20章  脚本化HTTP\n第21章  JavaScript和XML\n第22章  脚本化客户端图形\n第23章  脚本化JavaApplet和Flash电影\n第三部分  核心JavaScript参考手册\n核心JavaScript参考手册\n第四部分  客户端JavaScript参考手册\n客户端JavaScript参考手册",
+        "pages": "954",
+        "images": {
+            "small": "https://img3.doubanio.com\/view\/subject\/s\/public\/s5860151.jpg",
+            "large": "https://img3.doubanio.com\/view\/subject\/l\/public\/s5860151.jpg",
+            "medium": "https://img3.doubanio.com\/view\/subject\/m\/public\/s5860151.jpg"
+        },
+        "alt": "https:\/\/book.douban.com\/subject\/2228378\/",
+        "id": "2228378",
+        "publisher": "机械工业出版社",
+        "isbn10": "7111216326",
+        "isbn13": "9787111216322",
+        "title": "JavaScript权威指南",
+        "url": "https:\/\/api.douban.com\/v2\/book\/2228378",
+        "alt_title": "",
+        "author_intro": "",
+        "summary": "《JavaScript权威指南(第5版)》全面介绍了JavaScript语言的核心，以及Web浏览器中实现的遗留和标准的DOM。它运用了一些复杂的例子，说明如何处理验证表单数据、使用cookie、创建可移植的DHTML动画等常见任务。《JavaScript权威指南(第5版)》还包括详细的参考手册，涵盖了JavaScript的核心API、遗留的客户端API和W3C标准DOM API，记述了这些API中的每一个JavaScript对象、方法、性质、构造函数、常量和事件处理程序。",
+        "series": {
+            "id": "697",
+            "title": "O'reilly系列"
+        },
+        "price": "109.00元"
+    }
+]
